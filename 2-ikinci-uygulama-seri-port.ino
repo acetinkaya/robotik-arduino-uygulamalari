@@ -17,6 +17,12 @@ https://github.com/acetinkaya/robotik-arduino-uygulamalari
 https://alicetinkaya.site/ders-robotik
 https://avesis.gelisim.edu.tr/alcetinkaya 
 https://scholar.google.com.tr/citations?hl=tr&user=XSEW-NcAAAAJ
+
+---------------------------------------------------------------------------------------------------------
+Kodun açıklaması: 
+
+Arduino Nano üzerinde bağlı olan 13. pindeki ledin seri porttan gelen bilgiler ile yanıp yanmamamasını kontrol etmektedir. 
+
 */
 const int ledPin = 13; // LED pini
 
