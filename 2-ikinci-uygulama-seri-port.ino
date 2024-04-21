@@ -21,35 +21,29 @@ https://scholar.google.com.tr/citations?hl=tr&user=XSEW-NcAAAAJ
 ---------------------------------------------------------------------------------------------------------
 Kodun açıklaması: 
 
-Arduino Nano üzerinde bağlı olan 13. pindeki ledin seri porttan gelen bilgiler ile yanıp yanmamamasını kontrol etmektedir. 
+Arduino Nano üzerinde bağlı seri port tanımlaması ve ayarlarını gerçekleştiriyoruz. 
 
 */
-const int ledPin = 13; // LED pini
 
 void setup() 
 {
-  pinMode(ledPin, OUTPUT); // LED pinini çıkış olarak ayarlandı
   Serial.begin(9600); // Seri haberleşmeyi başlat (baud rate: 9600)
 }
 
 void loop() 
 {
-  // Seri porttan veri al
-  if (Serial.available() > 0) {
+  if (Serial.available() > 0) // Seri porttan veri al
+  {
     char receivedChar = Serial.read();
-    
-    // Alınan karakter 'H' ise LED'i yak
-    if (receivedChar == 'H') 
+
+    if (receivedChar == 'H')  // Alınan karakter 'H' ise LED'i yak
     {
-      Serial.println("LED açık");
-      digitalWrite(ledPin, HIGH); // LED'i yak
+      Serial.println("H Bilgisi Geldi");
       delay(1000); // 1000 milisaniye (1 saniye) bekle
     }
-    // Alınan karakter 'L' ise LED'i söndür
-    else if (receivedChar == 'L') 
+    else if (receivedChar == 'L') // Alınan karakter 'L' ise LED'i söndür
     {
-      Serial.println("LED kapalı");
-      digitalWrite(ledPin, LOW); // LED'i söndür
+      Serial.println("L Bilgisi Geldi");
       delay(1000); // 1000 milisaniye (1 saniye) bekle
     }
   }
