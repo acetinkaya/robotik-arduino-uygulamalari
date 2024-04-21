@@ -144,4 +144,4 @@ Bu paylaşımdaki uygulamaların listesi:
 49. Kırk Dokuzuncu Uygulama: 20A ESC BLDC Motor I2C LCD
 50. Elliinci Uygulama: PCA9685 I2C Servo
 
-NOT: Her hafta uygulamaların hem içerikleri arttırılarak hemde gerçekleştirilerek yüklenecektir.
+NOT: Bu platformda, her hafta uygulamaların içeriği genişletilecek ve geliştirme adımlarının paylaşımı yapılacaktır. Ayrıca, ilgili projelerin gelişimini takip etmek ve katkıda bulunmak için burayı takip edebilirsiniz.
