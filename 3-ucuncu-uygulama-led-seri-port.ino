@@ -17,33 +17,40 @@ https://github.com/acetinkaya/robotik-arduino-uygulamalari
 https://alicetinkaya.site/ders-robotik
 https://avesis.gelisim.edu.tr/alcetinkaya 
 https://scholar.google.com.tr/citations?hl=tr&user=XSEW-NcAAAAJ
+
+---------------------------------------------------------------------------------------------------------
+Kodun açıklaması: 
+
+Arduino Nano üzerinde bağlı olan 13. pindeki ledin seri porttan gelen bilgiler ile yanıp yanmamamasını kontrol etmektedir. 
+
 */
+const int ledPin = 13; // LED pini
 
-// LED pinini belirle
-const int ledPin = 13;
-
-void setup() {
-  // Seri haberleşmeyi başlat (baud rate: 9600)
-  Serial.begin(9600);
-
-  // LED pinini çıkış olarak ayarla
-  pinMode(ledPin, OUTPUT);
+void setup() 
+{
+  pinMode(ledPin, OUTPUT); // LED pinini çıkış olarak ayarlandı
+  Serial.begin(9600); // Seri haberleşmeyi başlat (baud rate: 9600)
 }
 
-void loop() {
+void loop() 
+{
   // Seri porttan veri al
   if (Serial.available() > 0) {
     char receivedChar = Serial.read();
     
     // Alınan karakter 'H' ise LED'i yak
-    if (receivedChar == 'H') {
-      digitalWrite(ledPin, HIGH);
+    if (receivedChar == 'H') 
+    {
       Serial.println("LED açık");
+      digitalWrite(ledPin, HIGH); // LED'i yak
+      delay(1000); // 1000 milisaniye (1 saniye) bekle
     }
     // Alınan karakter 'L' ise LED'i söndür
-    else if (receivedChar == 'L') {
-      digitalWrite(ledPin, LOW);
+    else if (receivedChar == 'L') 
+    {
       Serial.println("LED kapalı");
+      digitalWrite(ledPin, LOW); // LED'i söndür
+      delay(1000); // 1000 milisaniye (1 saniye) bekle
     }
   }
 }
