@@ -36,12 +36,12 @@ void loop()
   {
     char receivedChar = Serial.read();
 
-    if (receivedChar == 'H')  // Alınan karakter 'H' ise LED'i yak
+    if (receivedChar == 'H')  // Alınan karakter 'H' ise Seri port ekranına H Bilgisi Geldi yaz
     {
       Serial.println("H Bilgisi Geldi");
       delay(1000); // 1000 milisaniye (1 saniye) bekle
     }
-    else if (receivedChar == 'L') // Alınan karakter 'L' ise LED'i söndür
+    else if (receivedChar == 'L') // Alınan karakter 'L' ise Seri port ekranına L Bilgisi Geldi yaz
     {
       Serial.println("L Bilgisi Geldi");
       delay(1000); // 1000 milisaniye (1 saniye) bekle
