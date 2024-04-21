@@ -5,8 +5,11 @@ Bu kodlar açık kaynak paylaşım olarak github "acetinkaya" alanında paylaş�
 BTP222 Robotik dersi içerisinde anlatımı yapılan bu kodlar ve içerikler Öğr. Gör. Ali ÇETİNKAYA tarafından oluşturulmuştur. 
 
 Github alanından; 
+
 watch - ilgili projenin proje takibi bildirimi, 
+
 star - yıldız ile beğenme bildirimi ve 
+
 fork - kendi hesabınıza kopyalama işlemleriyle paylaşımlarıma destek verebilirsiniz. 
 
 Bilgi paylaşıldıkça çoğalır ve gelişir. İyi çalışmalar dilerim.
@@ -144,4 +147,6 @@ Bu paylaşımdaki uygulamaların listesi:
 49. Kırk Dokuzuncu Uygulama: 20A ESC BLDC Motor I2C LCD
 50. Elliinci Uygulama: PCA9685 I2C Servo
 
-NOT: Bu platformda, her hafta uygulamaların içeriği genişletilecek ve geliştirme adımlarının paylaşımı yapılacaktır. Ayrıca, ilgili projelerin gelişimini takip etmek ve katkıda bulunmak için burayı takip edebilirsiniz.
+NOT: Bu platformda, her hafta uygulamaların içeriği genişletilecek ve geliştirme adımlarının paylaşımı yapılacaktır. Ayrıca, ilgili projelerin gelişimini takip etmek ve katkıda bulunmak için burayı takip edebilirsiniz. 
+
+NOT: Github alanınızdan projeye "watch" diyerek ilgili projenin proje takibi için bildirim, yıldız star vererek projeyi beğenme bildirimi ve fork ile çalışmayı kendi hesabınıza kopyalama işlemleriyle paylaşımlarıma destek verebilirsiniz. 
