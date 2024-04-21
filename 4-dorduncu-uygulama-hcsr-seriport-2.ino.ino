@@ -25,7 +25,7 @@ Bu işlem için Tools->Library Manager->HCSR04 ara-> "HCSR04 by Martin Sosic" bi
 kütüphaneyi install ile kurulumunu yaparız. Kurulum yapıldıktan sonra File-> Examples -> HCSR04-> simple
 çalıştırılarak aşağıdaki kodlar gelmektedir. Aşağıdaki kodlarda;
 
-Arduino Nano üzerinde dijital pin bölümünde 13. ve 12. pinlere bağlı 
+Arduino Nano üzerinde dijital pin bölümünde 9. ve 10. pinlere bağlı 
 ultrasonik mesafe sensörü ile ölçüm alıp, seri port üzerinden mesafenin basılmasıdır.
 
 */
