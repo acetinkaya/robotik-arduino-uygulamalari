@@ -29,8 +29,8 @@ void setup()
 void loop() 
 {
   digitalWrite(ledPin, HIGH); // LED'i yak
-  delay(500); // 1000 milisaniye (1 saniye) bekle
+  delay(500); // 500 milisaniye (0.5 saniye) bekle
 
   digitalWrite(ledPin, LOW); // LED'i söndür
-  delay(500); // 1000 milisaniye (1 saniye) bekle
+  delay(500); // 500 milisaniye (0.5 saniye) bekle
 }
