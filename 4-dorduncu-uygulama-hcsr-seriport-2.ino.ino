@@ -32,14 +32,15 @@ ultrasonik mesafe sensörü ile ölçüm alıp, seri port üzerinden mesafenin b
 
 #include <HCSR04.h>
 
-UltraSonicDistanceSensor distanceSensor(9, 10);  // Initialize sensor that uses digital pins 13 and 12.
+UltraSonicDistanceSensor distanceSensor(9, 10);  
 
-void setup () {
-    Serial.begin(9600);  // We initialize serial connection so that we could print values from sensor.
+void setup () 
+{
+    Serial.begin(9600);  
 }
 
-void loop () {
-    // Every 500 miliseconds, do a measurement using the sensor and print the distance in centimeters.
+void loop () 
+{
     Serial.println(distanceSensor.measureDistanceCm());
     delay(200);
 }
