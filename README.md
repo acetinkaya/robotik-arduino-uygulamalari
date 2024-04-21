@@ -15,11 +15,11 @@ Bilgi paylaşıldıkça çoğalır ve gelişir. İyi çalışmalar dilerim.
 
 Öğr. Gör. Ali ÇETİNKAYA İstanbul, 2024
 
-Dersin Kaynak Adresleri:
-https://github.com/acetinkaya/robotik-arduino-uygulamalari
-https://alicetinkaya.site/ders-robotik
-https://avesis.gelisim.edu.tr/alcetinkaya 
-https://scholar.google.com.tr/citations?hl=tr&user=XSEW-NcAAAAJ
+Dersin Kaynak Adresleri: /n
+https://github.com/acetinkaya/robotik-arduino-uygulamalari /n
+https://alicetinkaya.site/ders-robotik /n
+https://avesis.gelisim.edu.tr/alcetinkaya /n
+https://scholar.google.com.tr/citations?hl=tr&user=XSEW-NcAAAAJ /n
 
 ------------------------------------------------------------------------------------------------------------------------------
 
