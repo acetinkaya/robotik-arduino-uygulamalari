@@ -99,7 +99,7 @@ Bu paylaşımdaki uygulamaların listesi:
 1. Birinci Uygulama: LED
 2. İkinci Uygulama: Seri Port
 3. Üçüncü Uygulama: LED Seri Port
-4. Dördüncü Uygulama: HCSR04 Seri Port
+4. Dördüncü Uygulama: Seri Port HCSR04 (Kütüphaneli ve Kütüphanesiz 2 farklı uygulama) 
 5. Beşinci Uygulama: I2C Port Bulma
 6. Altıncı Uygulama: I2C LCD
 7. Yedinci Uygulama: I2C LCD Seri Port
