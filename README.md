@@ -119,7 +119,11 @@ Bu paylaşımdaki uygulamaların listesi:
 
 3. Üçüncü Uygulama: LED Seri Port
 
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/3-ucuncu-uygulama-led-seri-port-resim1.png)
 
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/3-ucuncu-uygulama-led-seri-port-resim2.jpg)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/3-ucuncu-uygulama-led-seri-port-resim3.jpg)
 
 ------------------------------------------------------------------------------------------------------------------------------
 
