@@ -98,11 +98,22 @@ BMP180 basınç sensör modülü
 
 ------------------------------------------------------------------------------------------------------------------------------
 
+Ders içerisinde kullanılacak jumper kablolar
 
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/ders-jumper.jpg)
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Ders içerisinde kullanılan ve hassas çalışma malzemleri
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/ders-malzeleri.jpg)
 
 ------------------------------------------------------------------------------------------------------------------------------
 
 
+Ders içerisinde kullanılacak mekanik malzemer
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/ders-mekanik.jpg)
 
 ------------------------------------------------------------------------------------------------------------------------------
 
@@ -235,6 +246,89 @@ Bu paylaşımdaki uygulamaların listesi:
 50. Kırk Dokuzuncu Uygulama: 20A ESC BLDC Motor I2C LCD
 51. Elliinci Uygulama: PCA9685 I2C Servo
 
+------------------------------------------------------------------------------------------------------------------------------
+
 NOT: Bu platformda, her hafta uygulamaların içeriği genişletilecek ve geliştirme adımlarının paylaşımı yapılacaktır. Ayrıca, ilgili projelerin gelişimini takip etmek ve katkıda bulunmak için burayı takip edebilirsiniz. 
 
 NOT: Github alanınızdan projeye "watch" diyerek ilgili projenin proje takibi için bildirim, yıldız star vererek projeyi beğenme bildirimi ve fork ile çalışmayı kendi hesabınıza kopyalama işlemleriyle paylaşımlarıma destek verebilirsiniz. 
+
+------------------------------------------------------------------------------------------------------------------------------
+
+BTP222 ROBOTİK DERSİ İÇERİĞİ DERS BİLGİLERİ
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Amaç: Bu ders, ön lisans öğrencilerine robotik biliminin temel prensiplerini ve bilgisayar programcısı bakış açısıyla robotlara yaklaşımı tanıtmayı amaçlamaktadır. Öğrenciler, robotik alanındaki temel kavramları ve tarihçeyi anlamalarının yanı sıra, robot projeleri geliştirmek için gerekli olan algoritma geliştirme, kontrol yapıları, sensörler ve motor uygulamaları gibi konularda bilgi sahibi olacaklardır. Ayrıca, çeşitli mikrodenetleyici ve mikroişlemci tabanlı geliştirme ortamlarını kullanarak robotik projeler tasarlamayı öğrenerek, bu projeleri etkili bir şekilde sunma becerilerini geliştireceklerdir. Dersin sonunda öğrenciler, robotlara bilgisayar programcısı özel bakış açısını benimseyerek, robotik biliminin disiplinler arası etkileşim içindeki pratik uygulamalarını anlamış ve öğrenmiş olacaklardır.
+
+İçerik:  Bu dersin içeriği, öğrencilere robotik biliminin genel kavramlarını ve temel prensiplerini sunmayı hedefler. Ders kapsamında, robotiğe giriş, temel tanımlar, genel bilgiler, elektrik, elektronik ve devre elemanları, robot kontrolü, kontrol elemanları, algoritma geliştirme, operatörler, kontrol yapıları, sensörler ve algılayıcılar ile uygulamalar, DC motor uygulaması, servo motor uygulaması, step motor uygulaması ve robot projesi sunumu gibi konular ele alınacaktır. Öğrenciler, bu içerikler üzerinden robotik alanındaki temel konseptleri anlayarak, uygulamalı projelerde bilgi ve deneyim kazanacaklardır.
+
+------------------------------------------------------------------------------------------------------------------------------
+
+DERSİN ÖĞRENME ÇIKTILARI
+
+Gerekli teknik, akademik ve pratik bilgiye ulaşabilme yeteneği.
+Sistem veya süreçleri analiz edip tasarlama ve kullanma becerisi, verimlilik, üretilebilirlik, sürdürülebilirlik, çevresel ve sosyal boyutlarda uygulama yetisi sergileme kabiliyeti.
+Disiplinler arası etkileşim bulunan araştırma takımlarında etkin şekilde çalışabilme becerisi.
+Robotik biliminin tarihçesini ve temellerini anlama yetisi.
+Robotlara bilgisayar programcısı özel bakış açısı ışığında yaklaşım sergileme yeteneği.
+Elektronik ve yazılımın birleşimi ile robotikte fiziksel sistemlerin tasarımından yazılım tabanlı kontrolüne kadar geniş bir yelpazede uygulama potansiyelini anlama yetisi.
+
+------------------------------------------------------------------------------------------------------------------------------
+
+HAFTALIK DERS KONULARI
+
+1. Hafta - Robotik Bilimi (RB) Ders Tanıtımı, Temel Kavramları ve Tarihçesi
+
+2. Hafta - Robotik Bilimi (RB) Gömülü Sistem Kartları, mikroişlemci & mikrodenetleyici mimari yapıları ve kullanım alanları 
+
+3. Hafta - Robotik Bilimi (RB) Proje İşlem Adımlarının Oluşturulması, Robotik ve Otomasyon Sistemlerinde Kullanılan Elektronik Devre Malzemeleri, Sensör, Motor ve Motor Sürücü Çeşitleri
+
+4. Hafta - Robotik Bilimi (RB) Gömülü Sistem Kartları, mikroişlemci & mikrodenetleyici mimari yapıları ve kullanım alanları 
+
+5. Hafta - Robotik Bilimi (RB) Uygulama Projesinin Belirlenmesi, Gömülü Sistem Haberleşme ve Kontrol Protokolleri (IO, TIMER, PWM, ADC, SPI, i2c, UART, USB)
+
+6. Hafta - Programlama Dilleri ile Elektronik Kontrol ve Devre Elemanları Üzerinde İşlemler & Proje Kontrol Haftası
+
+7. Hafta - Vize Sınavı Haftası
+
+8. Hafta - Arduino Platformu ve Arduino Nano, UNO ve MEGA Mikrodenetleyici Geliştirme Kartlarının Kullanımı ve Led ve i2c Uygulamaları 
+
+9. Hafta - LED, i2c LCD, HCSR04 Mesafe Sensörü ve Buzzer Modülü Uygulamaları 
+
+10. Hafta - Araç Park Sensörü gömülü sisteminin geliştirilmesi ve uygulamaları 
+
+11. Hafta - QUİZ ve DTH11 ısı & nem modülü, I2C LCD ve Role uygulamaları 
+
+12. Hafta -  L298 DC Motor sürücü, DC motor, HCSR04 ve Buzzer Modülü Uygulamaları 
+
+13. Hafta - Servo Motor, i2c LCD, Pantilt Mekanizması, HCSR04 ve Lazer Modülü Uygulamaları
+
+14. Hafta - Robotik Bilimi (RB) NÖ ve İÖ Öğrencilerin Proje Sunumları
+
+15. Hafta - Robotik Bilimi (RB) Dersi Final Sınavı Haftası
+
+------------------------------------------------------------------------------------------------------------------------------
+
+KAYNAKLAR
+
+Öğr. Gör. Ali Çetinkaya, "Bulanık Mantık ve Python Uygulamaları". İstanbul Gelişim Üniversitesi Yayınları, 2023.
+
+Öğr. Gör. Tuğba Saray Çetinkaya & Öğr. Gör. Ali Çetinkaya, Algorithm Design in Programming Language Education - Özgür Yayınları, Gaziantep, 2023.
+
+Öğr. Gör. Ali Çetinkaya, Mühendislik Alanında Yapay Zeka (YZ) İçerikli Araştırmalarda Yaklaşımlar - Serüven Yayınevi, İzmir, 2022.
+
+Öğr. Gör. Ali Çetinkaya, Approaches with Artificial Intelligence (AI) Algorithms to Smart System Works - Platanus Publishing, Ankara, 2023.
+
+Öğr. Gör. Ali Çetinkaya’nın internet sayfaları: 
+
+https://scholar.google.com.tr/citations?hl=tr&user=XSEW-NcAAAAJ  
+
+https://avesis.gelisim.edu.tr/alcetinkaya 
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Dersin Verildiği Dönem ve Bilgiler
+
+2022-2023 Bahar Dönemi - BTP222 - İGÜ MYO Bilgisayar Teknolojisi Programı - (N.Ö. 72 ve İÖ: 45 Toplam = 127 Öğrenci), Dersin internet sitesi: https://gbs.gelisim.edu.tr/ders-detay-4-5-14514-1
+
+2023-2024 Bahar Dönemi - BTP222 - İGÜ MYO Bilgisayar Teknolojisi Programı - (N.Ö. 69 ve İÖ: 54 Toplam = 123 Öğrenci), Dersin internet sitesi: https://gbs.gelisim.edu.tr/ders-detay-4-5-14514-1
