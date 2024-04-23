@@ -106,7 +106,7 @@ Bu paylaşımdaki uygulamaların listesi:
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-3. İkinci Uygulama: Seri Port
+2. İkinci Uygulama: Seri Port
 
 ![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/2-ikinci-uygulama-seri-port-resim-1.jpg)
 
@@ -117,57 +117,63 @@ Bu paylaşımdaki uygulamaların listesi:
 ------------------------------------------------------------------------------------------------------------------------------
 
 
-4. Üçüncü Uygulama: LED Seri Port
+3. Üçüncü Uygulama: LED Seri Port
 
 
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-5. Dördüncü Uygulama: Seri Port HCSR04 (Kütüphaneli ve Kütüphanesiz 2 farklı uygulama)
+4. Dördüncü Uygulama: Seri Port HCSR04 (Kütüphaneli ve Kütüphanesiz 2 farklı uygulama)
 
 
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-6. Beşinci Uygulama: I2C Port Bulma
+5. Beşinci Uygulama: I2C Port Bulma
 
 
 ------------------------------------------------------------------------------------------------------------------------------
 
 
-7. Altıncı Uygulama: I2C LCD
+6. Altıncı Uygulama: I2C LCD
 
 
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-8. Yedinci Uygulama: I2C LCD Seri Port
+7. Yedinci Uygulama: I2C LCD Seri Port
 
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-9. Sekizinci Uygulama: HCSR I2C LCD
+8. Sekizinci Uygulama: HCSR I2C LCD
 
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-10. Dokuzuncu Uygulama: HCSR04 I2C LCD Buzzer Arayüzü
+9. Dokuzuncu Uygulama: HCSR04 I2C LCD Buzzer Arayüzü
 
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-11. Onuncu Uygulama: Araç Park Sensörü
+10. Onuncu Uygulama: Araç Park Sensörü
 
 
 ------------------------------------------------------------------------------------------------------------------------------
 
 
-12. Onbirinci Uygulama: I2C Role
+11. Onbirinci Uygulama: I2C Role
 
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-13. Onikinci Uygulama: I2C LCD Buzzer Role DTH11
+12. Onikinci Uygulama: I2C LCD Buzzer Role DTH11
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
+13. Onikinci Uygulama: I2C LCD DTH11
 
 
 ------------------------------------------------------------------------------------------------------------------------------
