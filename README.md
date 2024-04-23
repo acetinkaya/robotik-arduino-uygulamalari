@@ -334,7 +334,7 @@ Dersin Verildiği Dönem ve Bilgiler
 2023-2024 Bahar Dönemi - BTP222 - İGÜ MYO Bilgisayar Teknolojisi Programı - (N.Ö. 69 ve İÖ: 54 Toplam = 123 Öğrenci), Dersin internet sitesi: https://gbs.gelisim.edu.tr/ders-detay-4-5-14514-1
 
 ----------------------------------------------------------------------------------------------------------------------------
-Bu Github paylaşımının IEEE formatınada atıf verilme şekli:
+Bu Github paylaşımının IEEE ve APAR formatlarınada atıf verilme şekli:
 
 IEEE--> A. Cetinkaya, "Robotik Arduino Uygulamaları."  GitHub, [Online]. Erişim Linki: https://github.com/acetinkaya/robotik-arduino-uygulamalari. Son Erişim Tarihi: Gün Ay Yıl.
 
