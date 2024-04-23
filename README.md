@@ -325,10 +325,17 @@ https://scholar.google.com.tr/citations?hl=tr&user=XSEW-NcAAAAJ
 
 https://avesis.gelisim.edu.tr/alcetinkaya 
 
-------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------
 
 Dersin Verildiği Dönem ve Bilgiler
 
 2022-2023 Bahar Dönemi - BTP222 - İGÜ MYO Bilgisayar Teknolojisi Programı - (N.Ö. 72 ve İÖ: 45 Toplam = 127 Öğrenci), Dersin internet sitesi: https://gbs.gelisim.edu.tr/ders-detay-4-5-14514-1
 
 2023-2024 Bahar Dönemi - BTP222 - İGÜ MYO Bilgisayar Teknolojisi Programı - (N.Ö. 69 ve İÖ: 54 Toplam = 123 Öğrenci), Dersin internet sitesi: https://gbs.gelisim.edu.tr/ders-detay-4-5-14514-1
+
+----------------------------------------------------------------------------------------------------------------------------
+Bu Github paylaşımının IEEE formatınada atıf verilme şekli:
+
+IEEE--> A. Cetinkaya, "Robotik Arduino Uygulamaları."  GitHub, [Online]. Erişim Linki: https://github.com/acetinkaya/robotik-arduino-uygulamalari. Son Erişim Tarihi: Gün Ay Yıl.
+
+APA--> Cetinkaya, A. (2024). Robotik arduino uygulamalari [GitHub Deposu]. GitHub. Erişim Linki: https://github.com/acetinkaya/robotik-arduino-uygulamalari. Son Erişim Tarihi: Gün Ay Yıl.
