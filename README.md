@@ -148,7 +148,13 @@ Bu paylaşımdaki uygulamaların listesi:
 
 4. Dördüncü Uygulama: Seri Port HCSR04 (Kütüphaneli ve Kütüphanesiz 2 farklı uygulama)
 
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/4-dorduncu-uygulama-hcsr-seriport-resim1.jpg)
 
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/4-dorduncu-uygulama-hcsr-seriport-resim2.jpg)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/4-dorduncu-uygulama-hcsr-seriport-resim3.png)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/4-dorduncu-uygulama-hcsr-seriport-resim4.png)
 
 ------------------------------------------------------------------------------------------------------------------------------
 
