@@ -108,6 +108,11 @@ Bu paylaşımdaki uygulamaların listesi:
 
 3. İkinci Uygulama: Seri Port
 
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/2-ikinci-uygulama-seri-port-resim-1.jpg)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/2-ikinci-uygulama-seri-port-resim-2.png)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/2-ikinci-uygulama-seri-port-resim-3.png)
 
 ------------------------------------------------------------------------------------------------------------------------------
 
