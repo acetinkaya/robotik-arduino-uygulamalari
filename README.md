@@ -1,6 +1,6 @@
 # robotik-arduino-uygulamalari
 
-Bu kodlar açık kaynak paylaşım olarak github "acetinkaya" alanında paylaşımı yapılmıştır. 
+Aşağıdaki bilgi, resim ve kod çalışmaları açık kaynak paylaşım olarak github "acetinkaya" alanında paylaşımı yapılmıştır. 
 
 BTP222 Robotik dersi içerisinde anlatımı yapılan bu kodlar ve içerikler Öğr. Gör. Ali ÇETİNKAYA tarafından oluşturulmuştur. 
 
@@ -25,6 +25,10 @@ https://alicetinkaya.site/ders-robotik
 https://avesis.gelisim.edu.tr/alcetinkaya 
 
 https://scholar.google.com.tr/citations?hl=tr&user=XSEW-NcAAAAJ
+
+------------------------------------------------------------------------------------------------------------------------------
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/ders-baslang%C4%B1c%C4%B1.jpg)
 
 ------------------------------------------------------------------------------------------------------------------------------
 
