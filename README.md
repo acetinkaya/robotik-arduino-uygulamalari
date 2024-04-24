@@ -186,17 +186,29 @@ Bu paylaşımdaki uygulamaların listesi:
 
 ![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/6-altinci-uygulama-i2c-lcd-resim5.png)
 
-![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/6-altinci-uygulama-i2c-lcd.ino)
-
 ------------------------------------------------------------------------------------------------------------------------------
 
 7. Yedinci Uygulama: I2C LCD Seri Port
 
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/7-yedinci-uygulama-i2c-lcd-seriport-resim1.png)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/7-yedinci-uygulama-i2c-lcd-seriport-resim2.png)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/7-yedinci-uygulama-i2c-lcd-seriport-resim3.jpg)
 
 ------------------------------------------------------------------------------------------------------------------------------
 
 8. Sekizinci Uygulama: HCSR I2C LCD
 
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/8-sekizinci-uygulama-hcsr-i2c-lcd-resim1.png)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/8-sekizinci-uygulama-hcsr-i2c-lcd-resim2.jpg)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/8-sekizinci-uygulama-hcsr-i2c-lcd-resim3.jpg)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/8-sekizinci-uygulama-hcsr-i2c-lcd-resim4.jpg)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/8-sekizinci-uygulama-hcsr-i2c-lcd-resim5.png)
 
 ------------------------------------------------------------------------------------------------------------------------------
 
