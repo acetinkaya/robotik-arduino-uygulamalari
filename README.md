@@ -231,7 +231,7 @@ Bu paylaşımdaki uygulamaların listesi:
 ------------------------------------------------------------------------------------------------------------------------------
 
 
-11. Onbirinci Uygulama: I2C Role
+11. Onbirinci Uygulama: I2C LCD Role
 
 ![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/11-onbirinci-uygulama-i2c-role-resim1.png)
 
