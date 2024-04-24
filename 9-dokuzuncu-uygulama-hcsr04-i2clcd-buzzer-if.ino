@@ -18,10 +18,11 @@ https://alicetinkaya.site/ders-robotik
 https://avesis.gelisim.edu.tr/alcetinkaya 
 https://scholar.google.com.tr/citations?hl=tr&user=XSEW-NcAAAAJ
 
----------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
 Kodun açıklaması: 
 
-HCSR04 sensöründen gelen mesafe bilgisine dayanarak, belirlenen güvenli mesafe değeri ve altında bir mesafe degerinde ölcüm durumunda buzzer çalışıyor.
+HCSR04 sensöründen gelen mesafe bilgisine dayanarak, belirlenen güvenli mesafe değeri 
+ve altında bir mesafe degerinde ölcüm alındığı durumda buzzer'dan uyarı sesleri çıkmaktadır.
 
 */
 
@@ -33,11 +34,13 @@ LiquidCrystal_I2C_Hangul lcd(0x27,16,2); // 0x27 adresli 16x2 karakter LCD
 
 UltraSonicDistanceSensor distanceSensor(9, 10);  
 
-const int buzzerPin = 6; // Buzzer pini
-
-const int guvenli_mesafe = 30; // Minimum güvenli mesafe (cm)
+const int guvenli_mesafe = 14; // Minimum güvenli mesafe (cm)
 
 int mesafe = 0;
+
+int buzzer_pin = 7; 
+int uyari_sayisi = 2;
+int uyari_sesleri[] = {270, 370};
 
 void setup() 
 {
@@ -48,6 +51,7 @@ void setup()
   lcd.print("Hello Robotik!!!"); // "Hello World!" yazısını ekrana yaz
   delay(2000);                   // 2 saniye bekle.
   Serial.begin(9600);            // Seri portu başlat
+  pinMode(buzzer_pin, OUTPUT);
   delay(200);                    // 0.2 saniye bekle.
 }
 
@@ -66,18 +70,17 @@ void loop()
 
   if (mesafe <= guvenli_mesafe) 
   {
-    digitalWrite(buzzerPin, HIGH); // Buzzer'ı çal
-    delay(1000);                   // 1 saniye bekle
-    digitalWrite(buzzerPin, LOW);  // Buzzer'ı kapat
-    delay(100);   
+    for (int i = 0; i < uyari_sayisi; i++)
+    {
+    tone(buzzer_pin, uyari_sesleri[i]);
+    delay(1000);
+    noTone(buzzer_pin);
+    delay(20);
+    }
   } 
   else if (mesafe > guvenli_mesafe) 
   {
-    digitalWrite(buzzerPin, LOW); // Buzzer'ı kapat
-  }
-  else 
-  {
-    digitalWrite(buzzerPin, LOW); // Buzzer'ı kapat
+    noTone(buzzer_pin); // Buzzer'ı kapat
   }
 
   delay(100); // Ölçümleri 0.1 saniyede bir yap
