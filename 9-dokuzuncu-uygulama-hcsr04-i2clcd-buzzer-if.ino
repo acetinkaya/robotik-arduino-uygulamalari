@@ -22,7 +22,7 @@ https://scholar.google.com.tr/citations?hl=tr&user=XSEW-NcAAAAJ
 Kodun açıklaması: 
 
 HCSR04 sensöründen gelen mesafe bilgisine dayanarak, belirlenen güvenli mesafe değeri 
-ve altında bir mesafe degerinde ölcüm alındığı durumda buzzer'dan uyarı sesleri çıkmaktadır.
+ve altında bir mesafe degerinde ölcüm durumunda buzzer çalışıyor.
 
 */
 
@@ -73,6 +73,8 @@ void loop()
     for (int i = 0; i < uyari_sayisi; i++)
     {
     tone(buzzer_pin, uyari_sesleri[i]);
+    lcd.setCursor(9,1);
+    lcd.print("!!!");
     delay(1000);
     noTone(buzzer_pin);
     delay(20);
