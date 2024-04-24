@@ -249,6 +249,15 @@ Bu paylaşımdaki uygulamaların listesi:
 
 12. Onikinci Uygulama: I2C LCD DTH11 
 
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/12-onikinci-uygulama-i2clcd-buzzer-role-dth11-resim1.jpg)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/12-onikinci-uygulama-i2clcd-buzzer-role-dth11-resim2.jpg)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/12-onikinci-uygulama-i2clcd-buzzer-role-dth11-resim3.jpg)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/12-onikinci-uygulama-i2clcd-buzzer-role-dth11-resim4.png)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/12-onikinci-uygulama-i2clcd-buzzer-role-dth11-resim5.png)
 
 ------------------------------------------------------------------------------------------------------------------------------
 
