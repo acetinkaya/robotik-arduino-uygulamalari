@@ -32,31 +32,39 @@ i2c lcd üzerinde rölenin açık veya kapalı olma durumunun yazılmasıdır.
 
 LiquidCrystal_I2C_Hangul lcd(0x27,16,2); // 0x27 adresli 16x2 karakter LCD
 
-const int relayPin = 7; // Röle pini
+int role_pin = 8; // Röle pini
 
-void setup() {
+void setup() 
+{
   Serial.begin(9600);
-  lcd.init(); // LCD ekranını başlat
+  lcd.init();      // LCD ekranını başlat
   lcd.backlight(); // Arka ışığı aç
 
-  pinMode(relayPin, OUTPUT);
+  pinMode(role_pin, OUTPUT);
+  digitalWrite(role_pin, LOW);   
+
+  lcd.clear();
+  lcd.setCursor(0, 0);
+  lcd.print("Role: Kontrol");
+  lcd.setCursor(0, 1);
+  lcd.print("Uygulamasi");
+
+  delay(5000);
 }
 
 void loop() 
 {
 
-  digitalWrite(relayPin, HIGH);   // Röleyi aç
   lcd.clear();
   lcd.setCursor(0, 0);
-  lcd.print("Röle: Açık");
-  
+  lcd.print("Role: Acik");
+  digitalWrite(role_pin, LOW);   // Röle modül devre bağlantısında LOW -> Roleyi Aktif etmektedir.
   delay(5000); // 5 saniye bekle
   
+  lcd.clear();
+  lcd.setCursor(0, 0);
+  lcd.print("Role: Kapali");
+  digitalWrite(role_pin, HIGH);   // Röle modül devre bağlantısında HIGH -> Roleyi Pasif etmektedir.
+  delay(5000); // 5 saniye bekle
 
-  digitalWrite(relayPin, LOW);   // Röleyi kapat
-  lcd.clear();
-  lcd.setCursor(0, 0);
-  lcd.print("Röle: Kapalı");
-  
-  delay(5000); // 5 saniye bekle
 }
