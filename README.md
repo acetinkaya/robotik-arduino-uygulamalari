@@ -214,11 +214,19 @@ Bu paylaşımdaki uygulamaların listesi:
 
 9. Dokuzuncu Uygulama: HCSR04 I2C LCD Buzzer Arayüzü
 
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/9-dokuzuncu-uygulama-hcsr04-i2clcd-buzzer-if-resim1.png)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/9-dokuzuncu-uygulama-hcsr04-i2clcd-buzzer-if-resim2.png)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/9-dokuzuncu-uygulama-hcsr04-i2clcd-buzzer-if-resim3.jpg)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/9-dokuzuncu-uygulama-hcsr04-i2clcd-buzzer-if-resim4.jpg)
 
 ------------------------------------------------------------------------------------------------------------------------------
 
 10. Onuncu Uygulama: Araç Park Sensörü
 
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/10-onuncu-uygulama-arac-park-sensoru-resim1.jpg)
 
 ------------------------------------------------------------------------------------------------------------------------------
 
