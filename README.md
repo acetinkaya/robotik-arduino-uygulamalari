@@ -160,13 +160,33 @@ Bu paylaşımdaki uygulamaların listesi:
 
 5. Beşinci Uygulama: I2C Port Bulma
 
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/5-besinci-uygulama-i2c-port-bulma-resim1.jpg)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/5-besinci-uygulama-i2c-port-bulma-resim2.jpg)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/5-besinci-uygulama-i2c-port-bulma-resim3.jpg)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/5-besinci-uygulama-i2c-port-bulma-resim4.jpg)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/5-besinci-uygulama-i2c-port-bulma-resim5.jpg)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/5-besinci-uygulama-i2c-port-bulma-resim6.png)
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-
 6. Altıncı Uygulama: I2C LCD
 
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/6-altinci-uygulama-i2c-lcd-resim1.jpg)
 
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/6-altinci-uygulama-i2c-lcd-resim2.jpg)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/6-altinci-uygulama-i2c-lcd-resim3.jpg)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/6-altinci-uygulama-i2c-lcd-resim4.png)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/6-altinci-uygulama-i2c-lcd-resim5.png)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/6-altinci-uygulama-i2c-lcd.ino)
 
 ------------------------------------------------------------------------------------------------------------------------------
 
