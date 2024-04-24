@@ -25,6 +25,12 @@ Bu kodun görevi I2C hattında bağlı olan cihazları tarayıp erişim adresler
 yazdırılmasıdır. Bu Arduino kodu, I2C (Inter-Integrated Circuit) iletişim protokolü kullanarak 
 Arduino'nun çevresel cihazları taramasını ve bulmasını sağlar. 
 
+i2c modül --> Arduino
+VCC --------> VCC
+GND --------> GND
+SDA --------> A4
+SDL --------> A5
+
 */
 
 #include <Wire.h> // Bu kütüphane Arduino platformunda I2C (Inter-Integrated Circuit) 
@@ -76,5 +82,6 @@ void setup()
 
 void loop() 
 {
-  // Boş döngü
+  // Boş döngü // seri port ekranında i2c modülünün adresini yazdırma işlemidir. 
+  // Sistemin resetlenme süreci için arduino üzerindeki buton kullanılabilir. 
 }
