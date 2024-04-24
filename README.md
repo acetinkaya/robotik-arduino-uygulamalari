@@ -233,6 +233,17 @@ Bu paylaşımdaki uygulamaların listesi:
 
 11. Onbirinci Uygulama: I2C Role
 
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/11-onbirinci-uygulama-i2c-role-resim1.png)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/11-onbirinci-uygulama-i2c-role-resim2.png)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/11-onbirinci-uygulama-i2c-role-resim3.jpg)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/11-onbirinci-uygulama-i2c-role-resim4.jpg)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/11-onbirinci-uygulama-i2c-role-resim5.jpg)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/11-onbirinci-uygulama-i2c-role-resim6.jpg)
 
 ------------------------------------------------------------------------------------------------------------------------------
 
