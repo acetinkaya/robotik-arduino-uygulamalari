@@ -251,13 +251,13 @@ Bu paylaşımdaki uygulamaların listesi:
 
 ![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/12-onikinci-uygulama-i2clcd-buzzer-role-dth11-resim5.png)
 
-![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/12-onikinci-uygulama-i2clcd-buzzer-role-dth11-resim4.jpg)
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/12-onikinci-uygulama-i2clcd-buzzer-role-dth11-resim4.png)
 
 ![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/12-onikinci-uygulama-i2clcd-buzzer-role-dth11-resim1.jpg)
 
 ![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/12-onikinci-uygulama-i2clcd-buzzer-role-dth11-resim2.jpg)
 
-![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/12-onikinci-uygulama-i2clcd-buzzer-role-dth11-resim3.png)
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/12-onikinci-uygulama-i2clcd-buzzer-role-dth11-resim3.jpg)
 
 ------------------------------------------------------------------------------------------------------------------------------
 
