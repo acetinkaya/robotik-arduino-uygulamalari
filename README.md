@@ -410,27 +410,37 @@ BMP180 basınç sensör modülü
 
 # 18. Onyedinci Uygulama: I2C LCD MQ6 Buzzer Role
 
-![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/19-ondokuz-uyg-i2clcd-mq8-buzzer-role-resim1.png)
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/18-onsekiz-uyg-i2clcd-mq7-buzzer-role-resim1.png)
 
-![alternatif metin](
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/18-onsekiz-uyg-i2clcd-mq7-buzzer-role-resim2.png)
 
-![alternatif metin](
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/18-onsekiz-uyg-i2clcd-mq7-buzzer-role-resim3.png)
 
-![alternatif metin](
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/18-onsekiz-uyg-i2clcd-mq7-buzzer-role-resim4.jpg)
 
-![alternatif metin](
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/18-onsekiz-uyg-i2clcd-mq7-buzzer-role-resim5.jpg)
 
-![alternatif metin](
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/18-onsekiz-uyg-i2clcd-mq7-buzzer-role-resim6.jpg)
 
-![alternatif metin](
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/18-onsekiz-uyg-i2clcd-mq7-buzzer-role-resim7.jpg)
 
 ------------------------------------------------------------------------------------------------------------------------------
 
 # 19. Onsekizinci Uygulama: I2C LCD MQ7 Buzzer Role
 
-![alternatif metin](
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/19-ondokuz-uyg-i2clcd-mq8-buzzer-role-resim1.png)
 
-![alternatif metin](
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/19-ondokuz-uyg-i2clcd-mq8-buzzer-role-resim2.png)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/19-ondokuz-uyg-i2clcd-mq8-buzzer-role-resim3.png)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/19-ondokuz-uyg-i2clcd-mq8-buzzer-role-resim4.jpg)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/19-ondokuz-uyg-i2clcd-mq8-buzzer-role-resim5.jpg)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/19-ondokuz-uyg-i2clcd-mq8-buzzer-role-resim6.jpg)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/19-ondokuz-uyg-i2clcd-mq8-buzzer-role-resim7.jpg)
 
 ------------------------------------------------------------------------------------------------------------------------------
 
