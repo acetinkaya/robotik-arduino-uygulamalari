@@ -264,6 +264,26 @@ Bu paylaşımdaki uygulamaların listesi:
 
 13. Onikinci Uygulama: I2C LCD Buzzer Role DTH11
 
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/13-onuc-uyg-i2clcd-mq2-buzzer-role-resim1.jpg)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/13-onuc-uyg-i2clcd-mq2-buzzer-role-resim2.jpg)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/13-onuc-uyg-i2clcd-mq2-buzzer-role-resim3.jpg)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/13-onuc-uyg-i2clcd-mq2-buzzer-role-resim4.png)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/13-onuc-uyg-i2clcd-mq2-buzzer-role-resim5.png)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/13-onuc-uyg-i2clcd-mq2-buzzer-role-resim6.png)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/13-onuc-uyg-i2clcd-mq2-buzzer-role-resim7.jpg)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/13-onuc-uyg-i2clcd-mq2-buzzer-role-resim8.jpg)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/13-onuc-uyg-i2clcd-mq2-buzzer-role-resim9.jpg)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/13-onuc-uyg-i2clcd-mq2-buzzer-role-resim10.jpg)
+
 
 ------------------------------------------------------------------------------------------------------------------------------
 
@@ -271,19 +291,129 @@ Bu paylaşımdaki uygulamaların listesi:
 14. Onüçüncü Uygulama: I2C LCD MQ2 Buzzer Role
 
 
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/14-ondort-uyg-i2clcd-mq3-buzzer-role-resim1.jpg)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/14-ondort-uyg-i2clcd-mq3-buzzer-role-resim2.jpg)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/14-ondort-uyg-i2clcd-mq3-buzzer-role-resim3.jpg)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/14-ondort-uyg-i2clcd-mq3-buzzer-role-resim4.png)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/14-ondort-uyg-i2clcd-mq3-buzzer-role-resim5.png)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/14-ondort-uyg-i2clcd-mq3-buzzer-role-resim6.png)
+
+------------------------------------------------------------------------------------------------------------------------------
+
+15. Ondördüncü Uygulama: I2C LCD MQ3 Buzzer Role
+
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/15-onbes-uyg-i2clcd-mq4-buzzer-role-resim1.png)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/15-onbes-uyg-i2clcd-mq4-buzzer-role-resim2.png)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/15-onbes-uyg-i2clcd-mq4-buzzer-role-resim3.png)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/15-onbes-uyg-i2clcd-mq4-buzzer-role-resim4.jpg)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/15-onbes-uyg-i2clcd-mq4-buzzer-role-resim5.jpg)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/15-onbes-uyg-i2clcd-mq4-buzzer-role-resim6.jpg)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/15-onbes-uyg-i2clcd-mq4-buzzer-role-resim7.jpg)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/15-onbes-uyg-i2clcd-mq4-buzzer-role-resim8.jpg)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/15-onbes-uyg-i2clcd-mq4-buzzer-role-resim9.jpg)
+
+------------------------------------------------------------------------------------------------------------------------------
+
+16. Onbeşinci Uygulama: I2C LCD MQ4 Buzzer Role
+
+![alternatif metin](
+
+![alternatif metin](
+
 ------------------------------------------------------------------------------------------------------------------------------
 
 
-15. Ondördüncü Uygulama: I2C LCD MQ3 Buzzer Role
-16. Onbeşinci Uygulama: I2C LCD MQ4 Buzzer Role
 17. Onaltıncı Uygulama: I2C LCD MQ5 Buzzer Role
+
+
+![alternatif metin](
+
+![alternatif metin](
+
+------------------------------------------------------------------------------------------------------------------------------
+
 18. Onyedinci Uygulama: I2C LCD MQ6 Buzzer Role
+
+
+
+![alternatif metin](
+
+![alternatif metin](
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
 19. Onsekizinci Uygulama: I2C LCD MQ7 Buzzer Role
+
+
+![alternatif metin](
+
+![alternatif metin](
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
 20. Ondokuzuncu Uygulama: I2C LCD MQ8 Buzzer Role
+
+
+![alternatif metin](
+
+![alternatif metin](
+
+------------------------------------------------------------------------------------------------------------------------------
+
 21. Yirminci Uygulama: I2C LCD MQ9 Buzzer Role
+
+
+![alternatif metin](
+
+![alternatif metin](
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
 22. Yirmi Birinci Uygulama: I2C LCD MQ135 Buzzer Role
+
+
+![alternatif metin](
+
+![alternatif metin](
+
+------------------------------------------------------------------------------------------------------------------------------
+
 23. Yirmi İkinci Uygulama: Servo Potansiyometre
+
+![alternatif metin](
+
+![alternatif metin](
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
+
 24. Yirmi Üçüncü Uygulama: Çift Servo Joystick Pan-Tilt
+
+
+![alternatif metin](
+
+![alternatif metin](
+
+------------------------------------------------------------------------------------------------------------------------------
+
 25. Yirmi Dördüncü Uygulama: GY271 I2C LCD Pan-Tilt Servo
 26. Yirmi Beşinci Uygulama: L298 Motor Sürücü
 27. Yirmi Altıncı Uygulama: I2C LCD L298 Motor Sürücü Joystick
