@@ -446,14 +446,37 @@ BMP180 basınç sensör modülü
 
 # 20. Ondokuzuncu Uygulama: I2C LCD MQ8 Buzzer Role
 
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/20-yirmi-uyg-i2clcd-mq9-buzzer-role-resim1.png)
 
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/20-yirmi-uyg-i2clcd-mq9-buzzer-role-resim2.png)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/20-yirmi-uyg-i2clcd-mq9-buzzer-role-resim3.png)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/20-yirmi-uyg-i2clcd-mq9-buzzer-role-resim4.jpg)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/20-yirmi-uyg-i2clcd-mq9-buzzer-role-resim5.jpg)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/20-yirmi-uyg-i2clcd-mq9-buzzer-role-resim6.jpg)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/20-yirmi-uyg-i2clcd-mq9-buzzer-role-resim7.jpg)
 
 ------------------------------------------------------------------------------------------------------------------------------
 
 # 21. Yirminci Uygulama: I2C LCD MQ9 Buzzer Role
 
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/21-yirmibir-uyg-i2clcd-mq135-buzzer-role-resim1.jpg)
 
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/21-yirmibir-uyg-i2clcd-mq135-buzzer-role-resim2.jpg)
 
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/21-yirmibir-uyg-i2clcd-mq135-buzzer-role-resim3.jpg)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/21-yirmibir-uyg-i2clcd-mq135-buzzer-role-resim4.jpg)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/21-yirmibir-uyg-i2clcd-mq135-buzzer-role-resim5.png)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/21-yirmibir-uyg-i2clcd-mq135-buzzer-role-resim6.png)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/21-yirmibir-uyg-i2clcd-mq135-buzzer-role-resim7.png)
 
 ------------------------------------------------------------------------------------------------------------------------------
 
