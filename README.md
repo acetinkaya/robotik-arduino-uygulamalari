@@ -398,9 +398,13 @@ BMP180 basınç sensör modülü
 
 # 17. Onaltıncı Uygulama: I2C LCD MQ5 Buzzer Role
 
-![alternatif metin](
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/17-onyedi-uyg-i2clcd-mq6-buzzer-role-resim1.png)
 
-![alternatif metin](
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/17-onyedi-uyg-i2clcd-mq6-buzzer-role-resim2.png)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/17-onyedi-uyg-i2clcd-mq6-buzzer-role-resim3.png)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/17-onyedi-uyg-i2clcd-mq6-buzzer-role-resim4.jpg)
 
 ------------------------------------------------------------------------------------------------------------------------------
 
@@ -422,42 +426,31 @@ BMP180 basınç sensör modülü
 
 # 20. Ondokuzuncu Uygulama: I2C LCD MQ8 Buzzer Role
 
-![alternatif metin](
 
-![alternatif metin](
 
 ------------------------------------------------------------------------------------------------------------------------------
 
 # 21. Yirminci Uygulama: I2C LCD MQ9 Buzzer Role
 
 
-![alternatif metin](
 
-![alternatif metin](
 
 ------------------------------------------------------------------------------------------------------------------------------
 
 # 22. Yirmi Birinci Uygulama: I2C LCD MQ135 Buzzer Role
 
-![alternatif metin](
 
-![alternatif metin](
 
 ------------------------------------------------------------------------------------------------------------------------------
 
 # 23. Yirmi İkinci Uygulama: Servo Potansiyometre
 
-![alternatif metin](
 
-![alternatif metin](
 
 ------------------------------------------------------------------------------------------------------------------------------
 
 # 24. Yirmi Üçüncü Uygulama: Çift Servo Joystick Pan-Tilt
 
-![alternatif metin](
-
-![alternatif metin](
 
 ------------------------------------------------------------------------------------------------------------------------------
 
