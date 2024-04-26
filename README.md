@@ -177,6 +177,8 @@ Bu paylaşımdaki uygulamaların listesi:
 
 ![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/1-birinci-uygulama-led-resim.jpg)
 
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/1-birinci-uygulama-led-resim2.png)
+
 ------------------------------------------------------------------------------------------------------------------------------
 
 2. İkinci Uygulama: Seri Port
