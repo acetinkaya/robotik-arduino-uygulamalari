@@ -121,6 +121,38 @@ Bu paylaşımdaki uygulamaların listesi:
 
 1. Birinci Uygulama: LED
 
+25. Yirmi Dördüncü Uygulama: GY271 I2C LCD Pan-Tilt Servo
+26. Yirmi Beşinci Uygulama: L298 Motor Sürücü
+27. Yirmi Altıncı Uygulama: I2C LCD L298 Motor Sürücü Joystick
+28. Yirmi Yedinci Uygulama: Bluetooth I2C LCD
+29. Yirmi Sekizinci Uygulama: Bluetooth Mobil Robot
+30. Yirmi Dokuzuncu Uygulama: Bluetooth Role Sürücü I2C LCD
+31. Otuzuncu Uygulama: Buton Takımı I2C LCD Seri Port
+32. Otuz Birinci Uygulama: Buton Takımı I2C LCD Role Sürücü
+33. Otuz İkinci Uygulama: 4-Digit Display Seri Port
+34. Otuz Üçüncü Uygulama: 4-Digit Display Role Sürücü Buton Takımı
+35. Otuz Dördüncü Uygulama: RFID Seri Port
+36. Otuz Beşinci Uygulama: RFID Role Sürücü I2C LCD
+37. Otuz Altıncı Uygulama: MPU9250-6500 I2C LCD
+38. Otuz Yedinci Uygulama: MPU9250-6500 I2C LCD Pan-Tilt
+39. Otuz Sekizinci Uygulama: PIR I2C LCD
+40. Otuz Dokuzuncu Uygulama: PIR I2C LCD Role Sürücü
+41. Kırkıncı Uygulama: LDR I2C LCD Role Sürücü
+42. Kırk Birinci Uygulama: Su Yagmur Sensörü I2C LCD Role Sürücü
+43. Kırk İkinci Uygulama: TCS3200 Renk Sensörü I2C LCD
+44. Kırk Üçüncü Uygulama: Nabız Sensörü I2C LCD
+45. Kırk Dördüncü Uygulama: Basınç Sensörü BMP180 I2C LCD
+46. Kırk Beşinci Uygulama: MPU9250-6500 I2C LCD BMP180 Basınç
+47. Kırk Altıncı Uygulama: LM35 Isı Sensörü DTH11 I2C LCD Buzzer
+48. Kırk Yedinci Uygulama: HCSR04 Role Sürücü 5mW Lazer Sensörü
+49. Kırk Sekizinci Uygulama: HCSR04 4-Digit Display Buzzer
+50. Kırk Dokuzuncu Uygulama: 20A ESC BLDC Motor I2C LCD
+51. Elliinci Uygulama: PCA9685 I2C Servo
+
+
+
+1. Birinci Uygulama: LED
+
 ![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/1-birinci-uygulama-led-resim.jpg)
 
 ------------------------------------------------------------------------------------------------------------------------------
@@ -330,9 +362,19 @@ Bu paylaşımdaki uygulamaların listesi:
 
 16. Onbeşinci Uygulama: I2C LCD MQ4 Buzzer Role
 
-![alternatif metin](
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/16-onalti-uyg-i2clcd-mq5-buzzer-role-resim1.jpg)
 
-![alternatif metin](
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/16-onalti-uyg-i2clcd-mq5-buzzer-role-resim2.png)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/16-onalti-uyg-i2clcd-mq5-buzzer-role-resim3.png)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/16-onalti-uyg-i2clcd-mq5-buzzer-role-resim4.png)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/16-onalti-uyg-i2clcd-mq5-buzzer-role-resim5.jpg)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/16-onalti-uyg-i2clcd-mq5-buzzer-role-resim6.jpg)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/16-onalti-uyg-i2clcd-mq5-buzzer-role-resim7.jpg)
 
 ------------------------------------------------------------------------------------------------------------------------------
 
