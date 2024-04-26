@@ -16,7 +16,7 @@ Bilgi paylaşıldıkça çoğalır ve gelişir. İyi çalışmalar dilerim.
 
 Öğr. Gör. Ali ÇETİNKAYA İstanbul, 2024
 
-Dersin Kaynak Adresleri:
+# Dersin Kaynak Adresleri:
 
 https://github.com/acetinkaya/robotik-arduino-uygulamalari 
 
@@ -32,7 +32,7 @@ https://scholar.google.com.tr/citations?hl=tr&user=XSEW-NcAAAAJ
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-Bu Paylaşımdaki elektronik malzemelerin listesi:
+# Bu Paylaşımdaki elektronik malzemelerin listesi:
 
 Mikrodenetleyici: Arduino nano
 
@@ -98,26 +98,26 @@ BMP180 basınç sensör modülü
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-Ders içerisinde kullanılacak jumper kablolar
+# Ders içerisinde kullanılacak jumper kablolar
 
 ![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/ders-jumper.jpg)
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-Ders içerisinde kullanılan ve hassas çalışma malzemleri
+# Ders içerisinde kullanılan ve hassas çalışma malzemleri
 
 ![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/ders-malzeleri.jpg)
 
 ------------------------------------------------------------------------------------------------------------------------------
 
 
-Ders içerisinde kullanılacak mekanik malzemer
+# Ders içerisinde kullanılacak mekanik malzemer
 
 ![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/ders-mekanik.jpg)
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-Bu paylaşımdaki uygulamaların listesi:
+# Bu paylaşımdaki uygulamaların listesi:
 
 1. Birinci Uygulama: LED
 2. İkinci Uygulama: Seri Port
@@ -181,7 +181,7 @@ Bu paylaşımdaki uygulamaların listesi:
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-2. İkinci Uygulama: Seri Port
+# 2. İkinci Uygulama: Seri Port
 
 ![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/2-ikinci-uygulama-seri-port-resim-1.jpg)
 
@@ -191,8 +191,7 @@ Bu paylaşımdaki uygulamaların listesi:
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-
-3. Üçüncü Uygulama: LED Seri Port
+# 3. Üçüncü Uygulama: LED Seri Port
 
 ![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/3-ucuncu-uygulama-led-seri-port-resim1.png)
 
@@ -202,7 +201,7 @@ Bu paylaşımdaki uygulamaların listesi:
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-4. Dördüncü Uygulama: Seri Port HCSR04 (Kütüphaneli ve Kütüphanesiz 2 farklı uygulama)
+# 4. Dördüncü Uygulama: Seri Port HCSR04 (Kütüphaneli ve Kütüphanesiz 2 farklı uygulama)
 
 ![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/4-dorduncu-uygulama-hcsr-seriport-resim1.jpg)
 
@@ -214,7 +213,7 @@ Bu paylaşımdaki uygulamaların listesi:
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-5. Beşinci Uygulama: I2C Port Bulma
+# 5. Beşinci Uygulama: I2C Port Bulma
 
 ![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/5-besinci-uygulama-i2c-port-bulma-resim1.jpg)
 
@@ -230,7 +229,7 @@ Bu paylaşımdaki uygulamaların listesi:
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-6. Altıncı Uygulama: I2C LCD
+# 6. Altıncı Uygulama: I2C LCD
 
 ![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/6-altinci-uygulama-i2c-lcd-resim1.jpg)
 
@@ -244,7 +243,7 @@ Bu paylaşımdaki uygulamaların listesi:
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-7. Yedinci Uygulama: I2C LCD Seri Port
+# 7. Yedinci Uygulama: I2C LCD Seri Port
 
 ![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/7-yedinci-uygulama-i2c-lcd-seriport-resim1.png)
 
@@ -254,7 +253,7 @@ Bu paylaşımdaki uygulamaların listesi:
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-8. Sekizinci Uygulama: HCSR I2C LCD
+# 8. Sekizinci Uygulama: HCSR I2C LCD
 
 ![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/8-sekizinci-uygulama-hcsr-i2c-lcd-resim1.png)
 
@@ -268,7 +267,7 @@ Bu paylaşımdaki uygulamaların listesi:
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-9. Dokuzuncu Uygulama: HCSR04 I2C LCD Buzzer Arayüzü
+# 9. Dokuzuncu Uygulama: HCSR04 I2C LCD Buzzer Arayüzü
 
 ![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/9-dokuzuncu-uygulama-hcsr04-i2clcd-buzzer-if-resim1.png)
 
@@ -280,13 +279,13 @@ Bu paylaşımdaki uygulamaların listesi:
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-10. Onuncu Uygulama: Araç Park Sensörü
+# 10. Onuncu Uygulama: Araç Park Sensörü
 
 ![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/10-onuncu-uygulama-arac-park-sensoru-resim1.jpg)
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-11. Onbirinci Uygulama: I2C LCD Role
+# 11. Onbirinci Uygulama: I2C LCD Role
 
 ![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/11-onbirinci-uygulama-i2c-role-resim1.png)
 
@@ -302,7 +301,7 @@ Bu paylaşımdaki uygulamaların listesi:
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-12. Onikinci Uygulama: I2C LCD DTH11 
+# 12. Onikinci Uygulama: I2C LCD DTH11 
 
 ![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/12-onikinci-uygulama-i2clcd-buzzer-role-dth11-resim5.png)
 
@@ -316,7 +315,7 @@ Bu paylaşımdaki uygulamaların listesi:
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-13. Onikinci Uygulama: I2C LCD Buzzer Role DTH11
+# 13. Onikinci Uygulama: I2C LCD Buzzer Role DTH11
 
 ![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/13-onuc-uyg-i2clcd-mq2-buzzer-role-resim1.jpg)
 
@@ -341,7 +340,7 @@ Bu paylaşımdaki uygulamaların listesi:
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-14. Onüçüncü Uygulama: I2C LCD MQ2 Buzzer Role
+# 14. Onüçüncü Uygulama: I2C LCD MQ2 Buzzer Role
 
 ![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/14-ondort-uyg-i2clcd-mq3-buzzer-role-resim1.jpg)
 
@@ -357,7 +356,7 @@ Bu paylaşımdaki uygulamaların listesi:
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-15. Ondördüncü Uygulama: I2C LCD MQ3 Buzzer Role
+# 15. Ondördüncü Uygulama: I2C LCD MQ3 Buzzer Role
 
 ![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/15-onbes-uyg-i2clcd-mq4-buzzer-role-resim1.png)
 
@@ -379,7 +378,7 @@ Bu paylaşımdaki uygulamaların listesi:
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-16. Onbeşinci Uygulama: I2C LCD MQ4 Buzzer Role
+# 16. Onbeşinci Uygulama: I2C LCD MQ4 Buzzer Role
 
 ![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/16-onalti-uyg-i2clcd-mq5-buzzer-role-resim1.jpg)
 
@@ -397,7 +396,7 @@ Bu paylaşımdaki uygulamaların listesi:
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-17. Onaltıncı Uygulama: I2C LCD MQ5 Buzzer Role
+# 17. Onaltıncı Uygulama: I2C LCD MQ5 Buzzer Role
 
 ![alternatif metin](
 
@@ -405,7 +404,7 @@ Bu paylaşımdaki uygulamaların listesi:
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-18. Onyedinci Uygulama: I2C LCD MQ6 Buzzer Role
+# 18. Onyedinci Uygulama: I2C LCD MQ6 Buzzer Role
 
 ![alternatif metin](
 
@@ -413,7 +412,7 @@ Bu paylaşımdaki uygulamaların listesi:
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-19. Onsekizinci Uygulama: I2C LCD MQ7 Buzzer Role
+# 19. Onsekizinci Uygulama: I2C LCD MQ7 Buzzer Role
 
 ![alternatif metin](
 
@@ -421,7 +420,7 @@ Bu paylaşımdaki uygulamaların listesi:
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-20. Ondokuzuncu Uygulama: I2C LCD MQ8 Buzzer Role
+# 20. Ondokuzuncu Uygulama: I2C LCD MQ8 Buzzer Role
 
 ![alternatif metin](
 
@@ -429,7 +428,7 @@ Bu paylaşımdaki uygulamaların listesi:
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-21. Yirminci Uygulama: I2C LCD MQ9 Buzzer Role
+# 21. Yirminci Uygulama: I2C LCD MQ9 Buzzer Role
 
 
 ![alternatif metin](
@@ -438,7 +437,7 @@ Bu paylaşımdaki uygulamaların listesi:
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-22. Yirmi Birinci Uygulama: I2C LCD MQ135 Buzzer Role
+# 22. Yirmi Birinci Uygulama: I2C LCD MQ135 Buzzer Role
 
 ![alternatif metin](
 
@@ -446,7 +445,7 @@ Bu paylaşımdaki uygulamaların listesi:
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-23. Yirmi İkinci Uygulama: Servo Potansiyometre
+# 23. Yirmi İkinci Uygulama: Servo Potansiyometre
 
 ![alternatif metin](
 
@@ -454,7 +453,7 @@ Bu paylaşımdaki uygulamaların listesi:
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-24. Yirmi Üçüncü Uygulama: Çift Servo Joystick Pan-Tilt
+# 24. Yirmi Üçüncü Uygulama: Çift Servo Joystick Pan-Tilt
 
 ![alternatif metin](
 
@@ -462,53 +461,59 @@ Bu paylaşımdaki uygulamaların listesi:
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-25. Yirmi Dördüncü Uygulama: GY271 I2C LCD Pan-Tilt Servo
-26. Yirmi Beşinci Uygulama: L298 Motor Sürücü
-27. Yirmi Altıncı Uygulama: I2C LCD L298 Motor Sürücü Joystick
-28. Yirmi Yedinci Uygulama: Bluetooth I2C LCD
-29. Yirmi Sekizinci Uygulama: Bluetooth Mobil Robot
-30. Yirmi Dokuzuncu Uygulama: Bluetooth Role Sürücü I2C LCD
-31. Otuzuncu Uygulama: Buton Takımı I2C LCD Seri Port
-32. Otuz Birinci Uygulama: Buton Takımı I2C LCD Role Sürücü
-33. Otuz İkinci Uygulama: 4-Digit Display Seri Port
-34. Otuz Üçüncü Uygulama: 4-Digit Display Role Sürücü Buton Takımı
-35. Otuz Dördüncü Uygulama: RFID Seri Port
-36. Otuz Beşinci Uygulama: RFID Role Sürücü I2C LCD
-37. Otuz Altıncı Uygulama: MPU9250-6500 I2C LCD
-38. Otuz Yedinci Uygulama: MPU9250-6500 I2C LCD Pan-Tilt
-39. Otuz Sekizinci Uygulama: PIR I2C LCD
-40. Otuz Dokuzuncu Uygulama: PIR I2C LCD Role Sürücü
-41. Kırkıncı Uygulama: LDR I2C LCD Role Sürücü
-42. Kırk Birinci Uygulama: Su Yagmur Sensörü I2C LCD Role Sürücü
-43. Kırk İkinci Uygulama: TCS3200 Renk Sensörü I2C LCD
-44. Kırk Üçüncü Uygulama: Nabız Sensörü I2C LCD
-45. Kırk Dördüncü Uygulama: Basınç Sensörü BMP180 I2C LCD
-46. Kırk Beşinci Uygulama: MPU9250-6500 I2C LCD BMP180 Basınç
-47. Kırk Altıncı Uygulama: LM35 Isı Sensörü DTH11 I2C LCD Buzzer
-48. Kırk Yedinci Uygulama: HCSR04 Role Sürücü 5mW Lazer Sensörü
-49. Kırk Sekizinci Uygulama: HCSR04 4-Digit Display Buzzer
-50. Kırk Dokuzuncu Uygulama: 20A ESC BLDC Motor I2C LCD
-51. Elliinci Uygulama: PCA9685 I2C Servo
+# 25. Yirmi Dördüncü Uygulama: GY271 I2C LCD Pan-Tilt Servo
+# 26. Yirmi Beşinci Uygulama: L298 Motor Sürücü
+# 27. Yirmi Altıncı Uygulama: I2C LCD L298 Motor Sürücü Joystick
+# 28. Yirmi Yedinci Uygulama: Bluetooth I2C LCD
+# 29. Yirmi Sekizinci Uygulama: Bluetooth Mobil Robot
+# 30. Yirmi Dokuzuncu Uygulama: Bluetooth Role Sürücü I2C LCD
+# 31. Otuzuncu Uygulama: Buton Takımı I2C LCD Seri Port
+# 32. Otuz Birinci Uygulama: Buton Takımı I2C LCD Role Sürücü
+# 33. Otuz İkinci Uygulama: 4-Digit Display Seri Port
+# 34. Otuz Üçüncü Uygulama: 4-Digit Display Role Sürücü Buton Takımı
+# 35. Otuz Dördüncü Uygulama: RFID Seri Port
+# 36. Otuz Beşinci Uygulama: RFID Role Sürücü I2C LCD
+# 37. Otuz Altıncı Uygulama: MPU9250-6500 I2C LCD
+# 38. Otuz Yedinci Uygulama: MPU9250-6500 I2C LCD Pan-Tilt
+# 39. Otuz Sekizinci Uygulama: PIR I2C LCD
+# 40. Otuz Dokuzuncu Uygulama: PIR I2C LCD Role Sürücü
+# 41. Kırkıncı Uygulama: LDR I2C LCD Role Sürücü
+# 42. Kırk Birinci Uygulama: Su Yagmur Sensörü I2C LCD Role Sürücü
+# 43. Kırk İkinci Uygulama: TCS3200 Renk Sensörü I2C LCD
+# 44. Kırk Üçüncü Uygulama: Nabız Sensörü I2C LCD
+# 45. Kırk Dördüncü Uygulama: Basınç Sensörü BMP180 I2C LCD
+# 46. Kırk Beşinci Uygulama: MPU9250-6500 I2C LCD BMP180 Basınç
+# 47. Kırk Altıncı Uygulama: LM35 Isı Sensörü DTH11 I2C LCD Buzzer
+# 48. Kırk Yedinci Uygulama: HCSR04 Role Sürücü 5mW Lazer Sensörü
+# 49. Kırk Sekizinci Uygulama: HCSR04 4-Digit Display Buzzer
+# 50. Kırk Dokuzuncu Uygulama: 20A ESC BLDC Motor I2C LCD
+# 51. Elliinci Uygulama: PCA9685 I2C Servo
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-NOT: Bu platformda, her hafta uygulamaların içeriği genişletilecek ve geliştirme adımlarının paylaşımı yapılacaktır. Ayrıca, ilgili projelerin gelişimini takip etmek ve katkıda bulunmak için burayı takip edebilirsiniz. 
+# NOT: Bu platformda, her hafta uygulamaların içeriği genişletilecek ve geliştirme adımlarının paylaşımı yapılacaktır. 
+# Ayrıca, ilgili projelerin gelişimini takip etmek ve katkıda bulunmak için burayı takip edebilirsiniz. 
 
-NOT: Github alanınızdan projeye "watch" diyerek ilgili projenin proje takibi için bildirim, yıldız star vererek projeyi beğenme bildirimi ve fork ile çalışmayı kendi hesabınıza kopyalama işlemleriyle paylaşımlarıma destek verebilirsiniz. 
-
-------------------------------------------------------------------------------------------------------------------------------
-
-BTP222 ROBOTİK DERSİ İÇERİĞİ DERS BİLGİLERİ
+# NOT: Github alanınızdan projeye "watch" diyerek ilgili projenin proje takibi için bildirim, yıldız star vererek projeyi 
+# beğenme bildirimi ve fork ile çalışmayı kendi hesabınıza kopyalama işlemleriyle paylaşımlarıma destek verebilirsiniz. 
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-Amaç: Bu ders, ön lisans öğrencilerine robotik biliminin temel prensiplerini ve bilgisayar programcısı bakış açısıyla robotlara yaklaşımı tanıtmayı amaçlamaktadır. Öğrenciler, robotik alanındaki temel kavramları ve tarihçeyi anlamalarının yanı sıra, robot projeleri geliştirmek için gerekli olan algoritma geliştirme, kontrol yapıları, sensörler ve motor uygulamaları gibi konularda bilgi sahibi olacaklardır. Ayrıca, çeşitli mikrodenetleyici ve mikroişlemci tabanlı geliştirme ortamlarını kullanarak robotik projeler tasarlamayı öğrenerek, bu projeleri etkili bir şekilde sunma becerilerini geliştireceklerdir. Dersin sonunda öğrenciler, robotlara bilgisayar programcısı özel bakış açısını benimseyerek, robotik biliminin disiplinler arası etkileşim içindeki pratik uygulamalarını anlamış ve öğrenmiş olacaklardır.
-
-İçerik:  Bu dersin içeriği, öğrencilere robotik biliminin genel kavramlarını ve temel prensiplerini sunmayı hedefler. Ders kapsamında, robotiğe giriş, temel tanımlar, genel bilgiler, elektrik, elektronik ve devre elemanları, robot kontrolü, kontrol elemanları, algoritma geliştirme, operatörler, kontrol yapıları, sensörler ve algılayıcılar ile uygulamalar, DC motor uygulaması, servo motor uygulaması, step motor uygulaması ve robot projesi sunumu gibi konular ele alınacaktır. Öğrenciler, bu içerikler üzerinden robotik alanındaki temel konseptleri anlayarak, uygulamalı projelerde bilgi ve deneyim kazanacaklardır.
+# BTP222 ROBOTİK DERSİ İÇERİĞİ DERS BİLGİLERİ
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-DERSİN ÖĞRENME ÇIKTILARI
+# Amaç: 
+
+Bu ders, ön lisans öğrencilerine robotik biliminin temel prensiplerini ve bilgisayar programcısı bakış açısıyla robotlara yaklaşımı tanıtmayı amaçlamaktadır. Öğrenciler, robotik alanındaki temel kavramları ve tarihçeyi anlamalarının yanı sıra, robot projeleri geliştirmek için gerekli olan algoritma geliştirme, kontrol yapıları, sensörler ve motor uygulamaları gibi konularda bilgi sahibi olacaklardır. Ayrıca, çeşitli mikrodenetleyici ve mikroişlemci tabanlı geliştirme ortamlarını kullanarak robotik projeler tasarlamayı öğrenerek, bu projeleri etkili bir şekilde sunma becerilerini geliştireceklerdir. Dersin sonunda öğrenciler, robotlara bilgisayar programcısı özel bakış açısını benimseyerek, robotik biliminin disiplinler arası etkileşim içindeki pratik uygulamalarını anlamış ve öğrenmiş olacaklardır.
+
+# İçerik:  
+
+Bu dersin içeriği, öğrencilere robotik biliminin genel kavramlarını ve temel prensiplerini sunmayı hedefler. Ders kapsamında, robotiğe giriş, temel tanımlar, genel bilgiler, elektrik, elektronik ve devre elemanları, robot kontrolü, kontrol elemanları, algoritma geliştirme, operatörler, kontrol yapıları, sensörler ve algılayıcılar ile uygulamalar, DC motor uygulaması, servo motor uygulaması, step motor uygulaması ve robot projesi sunumu gibi konular ele alınacaktır. Öğrenciler, bu içerikler üzerinden robotik alanındaki temel konseptleri anlayarak, uygulamalı projelerde bilgi ve deneyim kazanacaklardır.
+
+------------------------------------------------------------------------------------------------------------------------------
+
+# DERSİN ÖĞRENME ÇIKTILARI
 
 Gerekli teknik, akademik ve pratik bilgiye ulaşabilme yeteneği.
 Sistem veya süreçleri analiz edip tasarlama ve kullanma becerisi, verimlilik, üretilebilirlik, sürdürülebilirlik, çevresel ve sosyal boyutlarda uygulama yetisi sergileme kabiliyeti.
@@ -519,7 +524,7 @@ Elektronik ve yazılımın birleşimi ile robotikte fiziksel sistemlerin tasarı
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-HAFTALIK DERS KONULARI
+# HAFTALIK DERS KONULARI
 
 1. Hafta - Robotik Bilimi (RB) Ders Tanıtımı, Temel Kavramları ve Tarihçesi
 
@@ -553,7 +558,7 @@ HAFTALIK DERS KONULARI
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-KAYNAKLAR
+# KAYNAKLAR
 
 Öğr. Gör. Ali Çetinkaya, "Bulanık Mantık ve Python Uygulamaları". İstanbul Gelişim Üniversitesi Yayınları, 2023.
 
@@ -571,14 +576,14 @@ https://avesis.gelisim.edu.tr/alcetinkaya
 
 ----------------------------------------------------------------------------------------------------------------------------
 
-Dersin Verildiği Dönem ve Bilgiler
+# Dersin Verildiği Dönem ve Bilgiler
 
 2022-2023 Bahar Dönemi - BTP222 - İGÜ MYO Bilgisayar Teknolojisi Programı - (N.Ö. 72 ve İÖ: 45 Toplam = 127 Öğrenci), Dersin internet sitesi: https://gbs.gelisim.edu.tr/ders-detay-4-5-14514-1
 
 2023-2024 Bahar Dönemi - BTP222 - İGÜ MYO Bilgisayar Teknolojisi Programı - (N.Ö. 69 ve İÖ: 54 Toplam = 123 Öğrenci), Dersin internet sitesi: https://gbs.gelisim.edu.tr/ders-detay-4-5-14514-1
 
 ----------------------------------------------------------------------------------------------------------------------------
-Bu Github paylaşımının IEEE ve APAR formatlarınada atıf verilme şekli:
+# Bu Github paylaşımının IEEE ve APAR formatlarınada atıf verilme şekli:
 
 IEEE--> A. Cetinkaya, "Robotik Arduino Uygulamaları."  GitHub, [Online]. Erişim Linki: https://github.com/acetinkaya/robotik-arduino-uygulamalari. Son Erişim Tarihi: Gün Ay Yıl.
 
