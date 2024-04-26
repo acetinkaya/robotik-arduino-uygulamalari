@@ -410,6 +410,16 @@ BMP180 basınç sensör modülü
 
 # 18. Onyedinci Uygulama: I2C LCD MQ6 Buzzer Role
 
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/19-ondokuz-uyg-i2clcd-mq8-buzzer-role-resim1.png)
+
+![alternatif metin](
+
+![alternatif metin](
+
+![alternatif metin](
+
+![alternatif metin](
+
 ![alternatif metin](
 
 ![alternatif metin](
