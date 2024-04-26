@@ -28,7 +28,7 @@ MQ-6: LPG, propan, İzobütan, metan, alkol, hidrojen
 MQ-7: Karbon monoksit (CO)
 MQ-8: Hidrojen, LPG, propan, metan, alkol, hidrojen
 MQ-9: Karbon monoksit (CO), metan, LPG
-MQ-135: Amonya, sülfür dioksit (SO2), bükülme, alkol, benzen, tiner, sigara dumanı, CO2
+MQ-135: Hava Kalitesi Sensörü
 
 Bu deneyimiz üzerinde arduino nano üzerinden i2c lcd, buzzer, role ve dogalgaz sensörlerinin 
 bütünleştiği bir otomasyon tasarımıdır. MQ4 üzerinden gelen dogalgaz seviye bilgisi tehlikeli olarak belirlenen
