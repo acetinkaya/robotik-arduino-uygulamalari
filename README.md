@@ -496,7 +496,17 @@ BMP180 basınç sensör modülü
 
 # 23. Yirmi Üçüncü Uygulama: Servo Potansiyometre
 
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/23-yirmiuc-uyg-ciftservo-joyistik-pantilt-i2clcd-resim1.jpg)
 
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/23-yirmiuc-uyg-ciftservo-joyistik-pantilt-i2clcd-resim2.jpg)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/23-yirmiuc-uyg-ciftservo-joyistik-pantilt-i2clcd-resim3.jpg)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/23-yirmiuc-uyg-ciftservo-joyistik-pantilt-i2clcd-resim4.jpg)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/23-yirmiuc-uyg-ciftservo-joyistik-pantilt-i2clcd-resim5.png)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/23-yirmiuc-uyg-ciftservo-joyistik-pantilt-i2clcd-resim6.png)
 
 ------------------------------------------------------------------------------------------------------------------------------
 
