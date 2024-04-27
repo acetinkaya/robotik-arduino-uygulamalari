@@ -482,7 +482,15 @@ BMP180 basınç sensör modülü
 
 # 22. Yirmi İkinci Uygulama: I2C LCD MQ135 Buzzer Role
 
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/22-yirmiiki-uyg-servo-pot-i2clcd-resim1.jpg)
 
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/22-yirmiiki-uyg-servo-pot-i2clcd-resim2.jpg)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/22-yirmiiki-uyg-servo-pot-i2clcd-resim3.png)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/22-yirmiiki-uyg-servo-pot-i2clcd-resim4.png)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/22-yirmiiki-uyg-servo-pot-i2clcd-resim5.png)
 
 ------------------------------------------------------------------------------------------------------------------------------
 
