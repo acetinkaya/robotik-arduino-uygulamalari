@@ -166,9 +166,12 @@ BMP180 basınç sensör modülü
 45. Kırk Beşinci Uygulama: MPU9250-6500 I2C LCD BMP180 Basınç
 46. Kırk Altıncı Uygulama: LM35 Isı Sensörü DTH11 I2C LCD Buzzer
 47. Kırk Yedinci Uygulama: HCSR04 Role Sürücü 5mW Lazer Sensörü
-48. Kırk Sekizinci Uygulama: HCSR04 4-Digit Display Buzzer
-49. Kırk Dokuzuncu Uygulama: 20A ESC BLDC Motor I2C LCD
-50. Elliinci Uygulama: PCA9685 I2C Servo
+48. Kırk Sekizinci Uygulama: i2c 4-Digit Display Buzzer Buton
+49. Kırk Dokuzuncu Uygulama: HCSR04 Buzzer i2c 4-Digit Display 
+50. Elliinci Uygulama: i2c 8-Digit Display Buzzer
+51. Elli Bir Uygulama: 20A ESC BLDC Motor I2C LCD
+52. Elli İkinci Uygulama: PCA9685 I2C Servo
+53. Elli Üçüncü Uygulama: HCSR04 L298 Motor sürücü i2c 8 digit display 
 
 ------------------------------------------------------------------------------------------------------------------------------
 
