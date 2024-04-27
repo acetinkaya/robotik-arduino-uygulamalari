@@ -508,40 +508,36 @@ BMP180 basınç sensör modülü
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-
-
-
-
-------------------------------------------------------------------------------------------------------------------------------
 # 24. Yirmi Üçüncü Uygulama: GY271 I2C LCD Pan-Tilt Servo
 # 25. Yirmi Beşinci Uygulama: L298 Motor Sürücü
 # 26. Yirmi Altıncı Uygulama: I2C LCD L298 Motor Sürücü Joystick
 # 27. Yirmi Yedinci Uygulama: Bluetooth I2C LCD
 # 28. Yirmi Sekizinci Uygulama: Bluetooth Mobil Robot
 # 29. Yirmi Dokuzuncu Uygulama: Bluetooth Role Sürücü I2C LCD
-# 30. Otuzuncu Uygulama: 
-# 31. Otuzuncu Birinci Uygulama: Buton Takımı I2C LCD Seri Port
-# 32. Otuz İkinci Uygulama: Buton Takımı I2C LCD Role Sürücü
-# 33. Otuz Üçüncü Uygulama: 4-Digit Display Seri Port
-# 34. Otuz Dördüncü Uygulama: 4-Digit Display Role Sürücü Buton Takımı
-# 35. Otuz Beşinci Uygulama: RFID Seri Port
-# 36. Otuz Altıncı Uygulama: RFID Role Sürücü I2C LCD
-# 37. Otuz Yedinci Uygulama: MPU9250-6500 I2C LCD
-# 38. Otuz Sekizinci Uygulama: MPU9250-6500 I2C LCD Pan-Tilt
-# 39. Otuz Dokuzuncu Uygulama: PIR I2C LCD
-# 40. Kırkıncı Uygulama: PIR I2C LCD Role Sürücü
-# 41. Kırk Birinci Uygulama: LDR I2C LCD Role Sürücü
-# 42. Kırk İkinci Uygulama: Su Yagmur Sensörü I2C LCD Role Sürücü
-# 43. Kırk Üçüncü Uygulama: TCS3200 Renk Sensörü I2C LCD
-# 44. Kırk Dördüncü Uygulama: Nabız Sensörü I2C LCD
-# 45. Kırk Beşinci Uygulama: Basınç Sensörü BMP180 I2C LCD
-# 46. Kırk Altıncı Uygulama: MPU9250-6500 I2C LCD BMP180 Basınç
-# 47. Kırk Yedinci Uygulama: LM35 Isı Sensörü DTH11 I2C LCD Buzzer
-# 48. Kırk Sekizinci Uygulama: HCSR04 Role Sürücü 5mW Lazer Sensörü
-# 49. Kırk Dokuzuncu Uygulama: HCSR04 4-Digit Display Buzzer
-# 50. Elliinci Uygulama: 20A ESC BLDC Motor I2C LCD
-# 51. Elli Birinci Uygulama: PCA9685 I2C Servo
-
+# 30. Otuzuncu Uygulama: Buton Takımı I2C LCD Seri Port
+# 31. Otuzuncu Birinci Uygulama: Buton Takımı I2C LCD Role Sürücü
+# 32. Otuz İkinci Uygulama: 4-Digit Display Seri Port
+# 33. Otuz Üçüncü Uygulama: 4-Digit Display Role Sürücü Buton Takımı
+# 34. Otuz Dördüncü Uygulama: RFID Seri Port
+# 35. Otuz Beşinci Uygulama:  RFID Role Sürücü I2C LCD
+# 36. Otuz Altıncı Uygulama: MPU9250-6500 I2C LCD
+# 37. Otuz Yedinci Uygulama: MPU9250-6500 I2C LCD Pan-Tilt
+# 38. Otuz Sekizinci Uygulama: PIR I2C LCD
+# 39. Otuz Dokuzuncu Uygulama: PIR I2C LCD Role Sürücü
+# 40. Kırkıncı Uygulama: LDR I2C LCD Role Sürücü
+# 41. Kırk Birinci Uygulama: Su Yagmur Sensörü I2C LCD Role Sürücü
+# 42. Kırk İkinci Uygulama: TCS3200 Renk Sensörü I2C LCD
+# 43. Kırk Üçüncü Uygulama: Nabız Sensörü I2C LCD
+# 44. Kırk Dördüncü Uygulama: Basınç Sensörü BMP180 I2C LCD
+# 45. Kırk Beşinci Uygulama: MPU9250-6500 I2C LCD BMP180 Basınç
+# 46. Kırk Altıncı Uygulama: LM35 Isı Sensörü DTH11 I2C LCD Buzzer
+# 47. Kırk Yedinci Uygulama: HCSR04 Role Sürücü 5mW Lazer Sensörü
+# 48. Kırk Sekizinci Uygulama: i2c 4-Digit Display Buzzer Buton
+# 49. Kırk Dokuzuncu Uygulama: HCSR04 Buzzer i2c 4-Digit Display 
+# 50. Elliinci Uygulama: i2c 8-Digit Display Buzzer
+# 51. Elli Bir Uygulama: 20A ESC BLDC Motor I2C LCD
+# 52. Elli İkinci Uygulama: PCA9685 I2C Servo
+# 53. Elli Üçüncü Uygulama: HCSR04 L298 Motor sürücü i2c 8 digit display 
 ------------------------------------------------------------------------------------------------------------------------------
 
 # NOT: Bu platformda, her hafta uygulamaların içeriği genişletilecek ve geliştirme adımlarının paylaşımı yapılacaktır. 
