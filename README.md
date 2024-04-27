@@ -119,59 +119,59 @@ BMP180 basınç sensör modülü
 
 # Bu paylaşımdaki uygulamaların listesi:
 
-1. Birinci Uygulama: LED
-2. İkinci Uygulama: Seri Port
-3. Üçüncü Uygulama: LED Seri Port
-4. Dördüncü Uygulama: Seri Port HCSR04 (Kütüphaneli ve Kütüphanesiz 2 farklı uygulama)
-5. Beşinci Uygulama: I2C Port Bulma
-6. Altıncı Uygulama: I2C LCD
-7. Yedinci Uygulama: I2C LCD Seri Port
-8. Sekizinci Uygulama: HCSR I2C LCD
-9. Dokuzuncu Uygulama: HCSR04 I2C LCD Buzzer Arayüzü
-10. Onuncu Uygulama: Araç Park Sensörü
-11. Onbirinci Uygulama: I2C LCD Role
-12. Onikinci Uygulama: I2C LCD DTH11 Buzzer Role
-13. Onüçüncü Uygulama: I2C LCD MQ2 Buzzer Role
-14. Ondördüncü Uygulama: I2C LCD MQ3 Buzzer Role
-15. Onbeşinci Uygulama: I2C LCD MQ4 Buzzer Role
-16. Onaltıncı Uygulama: I2C LCD MQ5 Buzzer Role
-17. Onyedinci Uygulama: I2C LCD MQ6 Buzzer Role
-18. Onsekizinci Uygulama: I2C LCD MQ7 Buzzer Role
-19. Ondokuzuncu Uygulama: I2C LCD MQ8 Buzzer Role
-20. Yirminci Uygulama: I2C LCD MQ9 Buzzer Role
-21. Yirmi Birinci Uygulama: I2C LCD MQ135 Buzzer Role
-22. Yirmi İkinci Uygulama: Servo Potansiyometre
-23. [Yirmi Üçüncü Uygulama: Çift Servo Joystick Pan-Tilt](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/README.md#23-yirmi-%C3%BC%C3%A7%C3%BCnc%C3%BC-uygulama-%C3%A7ift-servo-joystick-pan-tilt)
-24. Yirmi Dördüncü Uygulama: GY271 I2C LCD Pan-Tilt Servo
-25. Yirmi Beşinci Uygulama: L298 Motor Sürücü
-26. Yirmi Altıncı Uygulama: I2C LCD L298 Motor Sürücü Joystick
-27. Yirmi Yedinci Uygulama: Bluetooth I2C LCD
-28. Yirmi Sekizinci Uygulama: Bluetooth Mobil Robot
-29. Yirmi Dokuzuncu Uygulama: Bluetooth Role Sürücü I2C LCD
-30. Otuzuncu Uygulama: Buton Takımı I2C LCD Seri Port
-31. Otuz Birinci Uygulama: Buton Takımı I2C LCD Role Sürücü
-32. Otuz İkinci Uygulama: 4-Digit Display Seri Port
-33. Otuz Üçüncü Uygulama: 4-Digit Display Role Sürücü Buton Takımı
-34. Otuz Dördüncü Uygulama: RFID Seri Port
-35. Otuz Beşinci Uygulama: RFID Role Sürücü I2C LCD
-36. Otuz Altıncı Uygulama: MPU9250-6500 I2C LCD
-37. Otuz Yedinci Uygulama: MPU9250-6500 I2C LCD Pan-Tilt
-38. Otuz Sekizinci Uygulama: PIR I2C LCD
-39. Otuz Dokuzuncu Uygulama: PIR I2C LCD Role Sürücü
-40. Kırkıncı Uygulama: LDR I2C LCD Role Sürücü
-41. Kırk Birinci Uygulama: Su Yagmur Sensörü I2C LCD Role Sürücü
-42. Kırk İkinci Uygulama: TCS3200 Renk Sensörü I2C LCD
-43. Kırk Üçüncü Uygulama: Nabız Sensörü I2C LCD
-44. Kırk Dördüncü Uygulama: Basınç Sensörü BMP180 I2C LCD
-45. Kırk Beşinci Uygulama: MPU9250-6500 I2C LCD BMP180 Basınç
-46. Kırk Altıncı Uygulama: LM35 Isı Sensörü DTH11 I2C LCD Buzzer
-47. Kırk Yedinci Uygulama: HCSR04 Role Sürücü 5mW Lazer Sensörü
-48. Kırk Sekizinci Uygulama: i2c 4-Digit Display Buzzer Buton
-49. Kırk Dokuzuncu Uygulama: HCSR04 Buzzer i2c 4-Digit Display 
-50. Elliinci Uygulama: i2c 8-Digit Display Buzzer
-51. Elli Bir Uygulama: 20A ESC BLDC Motor I2C LCD
-52. Elli İkinci Uygulama: PCA9685 I2C Servo
-53. Elli Üçüncü Uygulama: HCSR04 L298 Motor sürücü i2c 8 digit display 
+1. [Birinci Uygulama: LED](https://github.com/acetinkaya/robotik-arduino-uygulamalari/?tab=readme-ov-file#1-birinci-uygulama-led)
+2. [İkinci Uygulama: Seri Port](https://github.com/acetinkaya/robotik-arduino-uygulamalari/?tab=readme-ov-file#2-i%CC%87kinci-uygulama-seri-port)
+3. [Üçüncü Uygulama: LED Seri Port](https://github.com/acetinkaya/robotik-arduino-uygulamalari/?tab=readme-ov-file#3-%C3%BC%C3%A7%C3%BCnc%C3%BC-uygulama-led-seri-port)
+4. [Dördüncü Uygulama: Seri Port HCSR04 (Kütüphaneli ve Kütüphanesiz 2 farklı uygulama)](https://github.com/acetinkaya/robotik-arduino-uygulamalari/?tab=readme-ov-file#4-d%C3%B6rd%C3%BCnc%C3%BC-uygulama-seri-port-hcsr04-k%C3%BCt%C3%BCphaneli-ve-k%C3%BCt%C3%BCphanesiz-2-farkl%C4%B1-uygulama)
+5. [Beşinci Uygulama: I2C Port Bulma](https://github.com/acetinkaya/robotik-arduino-uygulamalari/?tab=readme-ov-file#5-be%C5%9Finci-uygulama-i2c-port-bulma)
+6. [Altıncı Uygulama: I2C LCD](https://github.com/acetinkaya/robotik-arduino-uygulamalari/?tab=readme-ov-file#6-alt%C4%B1nc%C4%B1-uygulama-i2c-lcd)
+7. [Yedinci Uygulama: I2C LCD Seri Port](https://github.com/acetinkaya/robotik-arduino-uygulamalari/?tab=readme-ov-file#7-yedinci-uygulama-i2c-lcd-seri-port)
+8. [Sekizinci Uygulama: HCSR I2C LCD](https://github.com/acetinkaya/robotik-arduino-uygulamalari/?tab=readme-ov-file#8-sekizinci-uygulama-hcsr-i2c-lcd)
+9. [Dokuzuncu Uygulama: HCSR04 I2C LCD Buzzer Arayüzü](https://github.com/acetinkaya/robotik-arduino-uygulamalari/?tab=readme-ov-file#9-dokuzuncu-uygulama-hcsr04-i2c-lcd-buzzer-aray%C3%BCz%C3%BC)
+10. [Onuncu Uygulama: Araç Park Sensörü](https://github.com/acetinkaya/robotik-arduino-uygulamalari/?tab=readme-ov-file#10-onuncu-uygulama-ara%C3%A7-park-sens%C3%B6r%C3%BC)
+11. [Onbirinci Uygulama: I2C LCD Role](https://github.com/acetinkaya/robotik-arduino-uygulamalari/?tab=readme-ov-file#11-onbirinci-uygulama-i2c-lcd-role)
+13. [Onikinci Uygulama: I2C LCD DTH11 Buzzer Role](https://github.com/acetinkaya/robotik-arduino-uygulamalari/?tab=readme-ov-file#12-onikinci-uygulama-i2c-lcd-dth11-buzzer-role)
+14. [Onüçüncü Uygulama: I2C LCD MQ2 Buzzer Role](https://github.com/acetinkaya/robotik-arduino-uygulamalari/?tab=readme-ov-file#13-on%C3%BCc%C3%BCnc%C3%BC-uygulama-i2c-lcd-mq2-buzzer-role)
+15. [Ondördüncü Uygulama: I2C LCD MQ3 Buzzer Role](https://github.com/acetinkaya/robotik-arduino-uygulamalari/?tab=readme-ov-file#14-ond%C3%B6rd%C3%BCnc%C3%BC-uygulama-i2c-lcd-mq3-buzzer-role)
+16. [Onbeşinci Uygulama: I2C LCD MQ4 Buzzer Role](https://github.com/acetinkaya/robotik-arduino-uygulamalari/?tab=readme-ov-file#15-onbe%C5%9Finci-uygulama-i2c-lcd-mq4-buzzer-role)
+17. [Onaltıncı Uygulama: I2C LCD MQ5 Buzzer Role](https://github.com/acetinkaya/robotik-arduino-uygulamalari/?tab=readme-ov-file#16-onalt%C4%B1nc%C4%B1-uygulama-i2c-lcd-mq5-buzzer-role)
+18. [Onyedinci Uygulama: I2C LCD MQ6 Buzzer Role](https://github.com/acetinkaya/robotik-arduino-uygulamalari/?tab=readme-ov-file#17-onyedinci-uygulama-i2c-lcd-mq6-buzzer-role)
+19. [Onsekizinci Uygulama: I2C LCD MQ7 Buzzer Role](https://github.com/acetinkaya/robotik-arduino-uygulamalari/?tab=readme-ov-file#18-onsekizinci-uygulama-i2c-lcd-mq7-buzzer-role)
+20. [Ondokuzuncu Uygulama: I2C LCD MQ8 Buzzer Role](https://github.com/acetinkaya/robotik-arduino-uygulamalari/?tab=readme-ov-file#19-ondokuzuncu-uygulama-i2c-lcd-mq8-buzzer-role)
+21. [Yirminci Uygulama: I2C LCD MQ9 Buzzer Role](https://github.com/acetinkaya/robotik-arduino-uygulamalari/?tab=readme-ov-file#20-yirminci-uygulama-i2c-lcd-mq9-buzzer-role)
+22. [Yirmi Birinci Uygulama: I2C LCD MQ135 Buzzer Role](https://github.com/acetinkaya/robotik-arduino-uygulamalari/?tab=readme-ov-file#21-yirmi-birinci-uygulama-i2c-lcd-mq135-buzzer-role)
+23. [Yirmi İkinci Uygulama: Servo Potansiyometre](https://github.com/acetinkaya/robotik-arduino-uygulamalari/?tab=readme-ov-file#22-yirmi-i%CC%87kinci-uygulama-servo-potansiyometre-i2clcd)
+24. [Yirmi Üçüncü Uygulama: Çift Servo Joystick Pan-Tilt](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/README.md#23-yirmi-%C3%BC%C3%A7%C3%BCnc%C3%BC-uygulama-%C3%A7ift-servo-joystick-pan-tilt)
+25. Yirmi Dördüncü Uygulama: GY271 I2C LCD Pan-Tilt Servo
+26. Yirmi Beşinci Uygulama: L298 Motor Sürücü
+27. Yirmi Altıncı Uygulama: I2C LCD L298 Motor Sürücü Joystick
+28. Yirmi Yedinci Uygulama: Bluetooth I2C LCD
+29. Yirmi Sekizinci Uygulama: Bluetooth Mobil Robot
+30. Yirmi Dokuzuncu Uygulama: Bluetooth Role Sürücü I2C LCD
+31. Otuzuncu Uygulama: Buton Takımı I2C LCD Seri Port
+32. Otuz Birinci Uygulama: Buton Takımı I2C LCD Role Sürücü
+33. Otuz İkinci Uygulama: 4-Digit Display Seri Port
+34. Otuz Üçüncü Uygulama: 4-Digit Display Role Sürücü Buton Takımı
+35. Otuz Dördüncü Uygulama: RFID Seri Port
+36. Otuz Beşinci Uygulama: RFID Role Sürücü I2C LCD
+37. Otuz Altıncı Uygulama: MPU9250-6500 I2C LCD
+38. Otuz Yedinci Uygulama: MPU9250-6500 I2C LCD Pan-Tilt
+39. Otuz Sekizinci Uygulama: PIR I2C LCD
+40. Otuz Dokuzuncu Uygulama: PIR I2C LCD Role Sürücü
+41. Kırkıncı Uygulama: LDR I2C LCD Role Sürücü
+42. Kırk Birinci Uygulama: Su Yagmur Sensörü I2C LCD Role Sürücü
+43. Kırk İkinci Uygulama: TCS3200 Renk Sensörü I2C LCD
+44. Kırk Üçüncü Uygulama: Nabız Sensörü I2C LCD
+45. Kırk Dördüncü Uygulama: Basınç Sensörü BMP180 I2C LCD
+46. Kırk Beşinci Uygulama: MPU9250-6500 I2C LCD BMP180 Basınç
+47. Kırk Altıncı Uygulama: LM35 Isı Sensörü DTH11 I2C LCD Buzzer
+48. Kırk Yedinci Uygulama: HCSR04 Role Sürücü 5mW Lazer Sensörü
+49. Kırk Sekizinci Uygulama: i2c 4-Digit Display Buzzer Buton
+50. Kırk Dokuzuncu Uygulama: HCSR04 Buzzer i2c 4-Digit Display 
+51. Elliinci Uygulama: i2c 8-Digit Display Buzzer
+52. Elli Bir Uygulama: 20A ESC BLDC Motor I2C LCD
+53. Elli İkinci Uygulama: PCA9685 I2C Servo
+54. Elli Üçüncü Uygulama: HCSR04 L298 Motor sürücü i2c 8 digit display 
 
 ------------------------------------------------------------------------------------------------------------------------------
 
