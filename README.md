@@ -141,7 +141,7 @@ BMP180 basınç sensör modülü
 20. Yirminci Uygulama: I2C LCD MQ9 Buzzer Role
 21. Yirmi Birinci Uygulama: I2C LCD MQ135 Buzzer Role
 22. Yirmi İkinci Uygulama: Servo Potansiyometre
-23. ![Yirmi Üçüncü Uygulama: Çift Servo Joystick Pan-Tilt](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/README.md#23-yirmi-%C3%BC%C3%A7%C3%BCnc%C3%BC-uygulama-%C3%A7ift-servo-joystick-pan-tilt)
+23. [Yirmi Üçüncü Uygulama: Çift Servo Joystick Pan-Tilt](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/README.md#23-yirmi-%C3%BC%C3%A7%C3%BCnc%C3%BC-uygulama-%C3%A7ift-servo-joystick-pan-tilt)
 24. Yirmi Dördüncü Uygulama: GY271 I2C LCD Pan-Tilt Servo
 25. Yirmi Beşinci Uygulama: L298 Motor Sürücü
 26. Yirmi Altıncı Uygulama: I2C LCD L298 Motor Sürücü Joystick
