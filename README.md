@@ -143,7 +143,7 @@ BMP180 basınç sensör modülü
 23. [Yirmi İkinci Uygulama: Servo Potansiyometre](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/README.md#22-yirmi-i%CC%87kinci-uygulama-servo-potansiyometre-i2clcd)
 24. [Yirmi Üçüncü Uygulama: Çift Servo Joystick Pan-Tilt](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/README.md#23-yirmi-%C3%BC%C3%A7%C3%BCnc%C3%BC-uygulama-%C3%A7ift-servo-joystick-pan-tilt)
 25. Yirmi Dördüncü Uygulama: GY271 I2C LCD Pan-Tilt Servo
-26. Yirmi Beşinci Uygulama: L298 Motor Sürücü
+26. [Yirmi Beşinci Uygulama: L298 Motor Sürücü](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/25-l298motorsurucu-resim6.jpg)
 27. Yirmi Altıncı Uygulama: I2C LCD L298 Motor Sürücü Joystick
 28. Yirmi Yedinci Uygulama: Bluetooth I2C LCD
 29. Yirmi Sekizinci Uygulama: Bluetooth Mobil Robot
