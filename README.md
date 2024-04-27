@@ -301,7 +301,7 @@ BMP180 basınç sensör modülü
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-# 12. Onikinci Uygulama: I2C LCD DTH11 
+# 12. Onikinci Uygulama: I2C LCD DTH11 Buzzer Role
 
 ![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/12-onikinci-uygulama-i2clcd-buzzer-role-dth11-resim5.png)
 
@@ -315,7 +315,7 @@ BMP180 basınç sensör modülü
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-# 13. Onücüncü Uygulama: I2C LCD Buzzer Role DTH11
+# 13. Onücüncü Uygulama: I2C LCD MQ2 Buzzer Role
 
 ![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/13-onuc-uyg-i2clcd-mq2-buzzer-role-resim1.jpg)
 
@@ -337,10 +337,15 @@ BMP180 basınç sensör modülü
 
 ![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/13-onuc-uyg-i2clcd-mq2-buzzer-role-resim10.jpg)
 
+------------------------------------------------------------------------------------------------------------------------------
+
+# 14. 
+
+
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-# 14. Ondörtüncü Uygulama: I2C LCD MQ2 Buzzer Role
+# 15. Onbeşinci Uygulama: I2C LCD MQ3 Buzzer Role
 
 ![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/14-ondort-uyg-i2clcd-mq3-buzzer-role-resim1.jpg)
 
@@ -356,7 +361,7 @@ BMP180 basınç sensör modülü
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-# 15. Onbeşinci Uygulama: I2C LCD MQ3 Buzzer Role
+# 16. Onaltıncı Uygulama: I2C LCD MQ4 Buzzer Role
 
 ![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/15-onbes-uyg-i2clcd-mq4-buzzer-role-resim1.png)
 
@@ -378,7 +383,7 @@ BMP180 basınç sensör modülü
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-# 16. Onaltıncı Uygulama: I2C LCD MQ4 Buzzer Role
+# 17. Onyedinci Uygulama: I2C LCD MQ5 Buzzer Role
 
 ![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/16-onalti-uyg-i2clcd-mq5-buzzer-role-resim1.jpg)
 
@@ -396,7 +401,7 @@ BMP180 basınç sensör modülü
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-# 17. Onyedinci Uygulama: I2C LCD MQ5 Buzzer Role
+# 18. Onsekizinci Uygulama: I2C LCD MQ6 Buzzer Role
 
 ![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/17-onyedi-uyg-i2clcd-mq6-buzzer-role-resim1.png)
 
@@ -408,7 +413,7 @@ BMP180 basınç sensör modülü
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-# 18. Onsekizinci Uygulama: I2C LCD MQ6 Buzzer Role
+# 19. Ondokuzuncu Uygulama: I2C LCD MQ7 Buzzer Role
 
 ![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/18-onsekiz-uyg-i2clcd-mq7-buzzer-role-resim1.png)
 
@@ -426,7 +431,7 @@ BMP180 basınç sensör modülü
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-# 19. Ondokuzuncu Uygulama: I2C LCD MQ7 Buzzer Role
+# 20. Yirminci Uygulama: I2C LCD MQ8 Buzzer Role
 
 ![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/19-ondokuz-uyg-i2clcd-mq8-buzzer-role-resim1.png)
 
@@ -444,7 +449,7 @@ BMP180 basınç sensör modülü
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-# 20. Yirminci Uygulama: I2C LCD MQ8 Buzzer Role
+# 21. Yirmi Birinci Uygulama: I2C LCD MQ9 Buzzer Role
 
 ![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/20-yirmi-uyg-i2clcd-mq9-buzzer-role-resim1.png)
 
@@ -462,7 +467,7 @@ BMP180 basınç sensör modülü
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-# 21. Yirmi Birinci Uygulama: I2C LCD MQ9 Buzzer Role
+# 22. Yirmi İkinci Uygulama: I2C LCD MQ135 Buzzer Role
 
 ![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/21-yirmibir-uyg-i2clcd-mq135-buzzer-role-resim1.jpg)
 
@@ -480,7 +485,7 @@ BMP180 basınç sensör modülü
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-# 22. Yirmi İkinci Uygulama: I2C LCD MQ135 Buzzer Role
+# 23. Yirmi Üçüncü Uygulama: Servo Potansiyometre i2clcd
 
 ![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/22-yirmiiki-uyg-servo-pot-i2clcd-resim1.jpg)
 
@@ -494,7 +499,7 @@ BMP180 basınç sensör modülü
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-# 23. Yirmi Üçüncü Uygulama: Servo Potansiyometre
+# 24. Yirmi Üçüncü Uygulama: Çift Servo Joystick Pan-Tilt
 
 ![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/23-yirmiuc-uyg-ciftservo-joyistik-pantilt-i2clcd-resim1.jpg)
 
@@ -507,11 +512,6 @@ BMP180 basınç sensör modülü
 ![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/23-yirmiuc-uyg-ciftservo-joyistik-pantilt-i2clcd-resim5.png)
 
 ![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/23-yirmiuc-uyg-ciftservo-joyistik-pantilt-i2clcd-resim6.png)
-
-------------------------------------------------------------------------------------------------------------------------------
-
-# 24. Yirmi Üçüncü Uygulama: Çift Servo Joystick Pan-Tilt
-
 
 ------------------------------------------------------------------------------------------------------------------------------
 
