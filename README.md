@@ -512,7 +512,27 @@ BMP180 basınç sensör modülü
 ------------------------------------------------------------------------------------------------------------------------------
 
 # 24. Yirmi Üçüncü Uygulama: GY271 I2C LCD Pan-Tilt Servo
+
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
 # 25. Yirmi Beşinci Uygulama: L298 Motor Sürücü
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/25-l298motorsurucu-resim1.jpg)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/25-l298motorsurucu-resim2.jpg)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/25-l298motorsurucu-resim3.jpg)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/25-l298motorsurucu-resim4.png)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/25-l298motorsurucu-resim5.png)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/25-l298motorsurucu-resim6.jpg)
+
+------------------------------------------------------------------------------------------------------------------------------
+
 # 26. Yirmi Altıncı Uygulama: I2C LCD L298 Motor Sürücü Joystick
 # 27. Yirmi Yedinci Uygulama: Bluetooth I2C LCD
 # 28. Yirmi Sekizinci Uygulama: Bluetooth Mobil Robot
