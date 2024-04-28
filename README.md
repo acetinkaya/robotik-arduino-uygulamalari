@@ -596,15 +596,15 @@ BMP180 basınç sensör modülü
 
 ![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/60-Altmis-uygulama-matlab-arduino-resim5.jpg)
 
-![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/60-Altmis-uygulama-matlab-arduino-resim6.jpg)
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/60-Altmis-uygulama-matlab-arduino-resim6.png)
 
-![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/60-Altmis-uygulama-matlab-arduino-resim7.jpg)
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/60-Altmis-uygulama-matlab-arduino-resim7.png)
 
-![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/60-Altmis-uygulama-matlab-arduino-resim8.jpg)
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/60-Altmis-uygulama-matlab-arduino-resim8.png)
 
-![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/60-Altmis-uygulama-matlab-arduino-resim9.jpg)
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/60-Altmis-uygulama-matlab-arduino-resim9.png)
 
-![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/60-Altmis-uygulama-matlab-arduino-resim10.jpg)
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/60-Altmis-uygulama-matlab-arduino-resim10.png)
 
 ------------------------------------------------------------------------------------------------------------------------------
 
