@@ -586,8 +586,25 @@ BMP180 basınç sensör modülü
 
 # 60. Altmısıncı Uygulama: Arduino ve Matlab Haberleşmesi
 
-![alternatif metin]()
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/60-Altmis-uygulama-matlab-arduino-resim1.jpg)
 
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/60-Altmis-uygulama-matlab-arduino-resim2.jpg)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/60-Altmis-uygulama-matlab-arduino-resim3.jpg)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/60-Altmis-uygulama-matlab-arduino-resim4.jpg)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/60-Altmis-uygulama-matlab-arduino-resim5.jpg)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/60-Altmis-uygulama-matlab-arduino-resim6.jpg)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/60-Altmis-uygulama-matlab-arduino-resim7.jpg)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/60-Altmis-uygulama-matlab-arduino-resim8.jpg)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/60-Altmis-uygulama-matlab-arduino-resim9.jpg)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/60-Altmis-uygulama-matlab-arduino-resim10.jpg)
 
 ------------------------------------------------------------------------------------------------------------------------------
 
