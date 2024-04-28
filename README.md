@@ -581,7 +581,16 @@ BMP180 basınç sensör modülü
 # 57. Elli Yedinci Uygulama: 298mtrsrc ciftdcmotor
 # 58. Elli Yedinci Uygulama: l298motorsrc xyjoyistick
 # 59. Elli Yedinci Uygulama: Elli dokuz uygulama DTH11 Mq2 SeriPort
+
+------------------------------------------------------------------------------------------------------------------------------
+
 # 60. Altmısıncı Uygulama: Arduino ve Matlab Haberleşmesi
+
+![alternatif metin]()
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
 # 61. Altmıs Bir Uygulama: Dth11 mq2 i2clcd role
 # 62. Altmıs İki Uygulama: DHT11 Mq2 Buzzer Role
 # 63. Altmıs Uc Uygulama: DTH11 mq2 rgbled buzzer
