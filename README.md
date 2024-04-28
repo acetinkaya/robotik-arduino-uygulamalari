@@ -578,6 +578,19 @@ BMP180 basınç sensör modülü
 # 54. Elli Dördüncü Uygulama: Potansiyometre L298 Motor sürücü DC motor
 # 55. Elli Beş Uygulama: i2clcd Pot L298 motorsurucu
 # 56. Elli Altı Uygulama: hcsr04 i2cLcd L298 motorsurucu
+# 57. Elli Yedinci Uygulama: 298mtrsrc ciftdcmotor
+# 58. Elli Yedinci Uygulama: l298motorsrc xyjoyistick
+# 59. Elli Yedinci Uygulama: Elli dokuz uygulama DTH11 Mq2 SeriPort
+# 60. Altmısıncı Uygulama: Arduino ve Matlab Haberleşmesi
+# 61. Altmıs Bir Uygulama: Dth11 mq2 i2clcd role
+# 62. Altmıs İki Uygulama: DHT11 Mq2 Buzzer Role
+# 63. Altmıs Uc Uygulama: DTH11 mq2 rgbled buzzer
+# 64. Altmıs Dort Uygulama: DTH11 mq2 rgbled buzzer role
+# 65. Altmıs Bes Uygulama: PIR RGBled
+# 66. Altmıs Altı Uygulama: PIR RGBLED Buzzer
+# 67. Altmıs Yedi Uygulama: PIR Lazer Role
+# 68. Altmıs Sekiz Uygulama: PIR RGBLed Role Buzzer
+
 ------------------------------------------------------------------------------------------------------------------------------
 
 # NOT: 
