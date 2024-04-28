@@ -568,11 +568,15 @@ BMP180 basınç sensör modülü
 # 56. Elli Altı Uygulama: hcsr04 i2cLcd L298 motorsurucu
 ------------------------------------------------------------------------------------------------------------------------------
 
-# NOT: Bu platformda, her hafta uygulamaların içeriği genişletilecek ve geliştirme adımlarının paylaşımı yapılacaktır. 
-# Ayrıca, ilgili projelerin gelişimini takip etmek ve katkıda bulunmak için burayı takip edebilirsiniz. 
+# NOT: 
 
-# NOT: Github alanınızdan projeye "watch" diyerek ilgili projenin proje takibi için bildirim, yıldız star vererek projeyi 
-# beğenme bildirimi ve fork ile çalışmayı kendi hesabınıza kopyalama işlemleriyle paylaşımlarıma destek verebilirsiniz. 
+Bu platformda, her hafta uygulamaların içeriği genişletilecek ve geliştirme adımlarının paylaşımı yapılacaktır. 
+Ayrıca, ilgili projelerin gelişimini takip etmek ve katkıda bulunmak için burayı takip edebilirsiniz. 
+
+# NOT: 
+
+Github alanınızdan projeye "watch" diyerek ilgili projenin proje takibi için bildirim, yıldız star vererek projeyi 
+beğenme bildirimi ve fork ile çalışmayı kendi hesabınıza kopyalama işlemleriyle paylaşımlarıma destek verebilirsiniz. 
 
 ------------------------------------------------------------------------------------------------------------------------------
 
