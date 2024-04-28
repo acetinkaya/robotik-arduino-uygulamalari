@@ -173,7 +173,7 @@ BMP180 basınç sensör modülü
 52. Elli İkinci Uygulama: PCA9685 I2C Servo
 53. Elli Üçüncü Uygulama: HCSR04 L298 Motor sürücü i2c 8 digit display
 54. Elli Dördüncü Uygulama: Potansiyometre L298 Motor sürücü DC motor
-55. Elli Beş Uygulana: i2clcd Pot L298 motorsurucu
+55. Elli Beş Uygulama: i2clcd Pot L298 motorsurucu
 56. Elli Altı Uygulama: hcsr04 i2cLcd L298 motorsurucu
 ------------------------------------------------------------------------------------------------------------------------------
 
@@ -564,7 +564,7 @@ BMP180 basınç sensör modülü
 # 52. Elli İkinci Uygulama: PCA9685 I2C Servo
 # 53. Elli Üçüncü Uygulama: HCSR04 L298 Motor sürücü i2c 8 digit display
 # 54. Elli Dördüncü Uygulama: Potansiyometre L298 Motor sürücü DC motor
-# 55. Elli Beş Uygulana: i2clcd Pot L298 motorsurucu
+# 55. Elli Beş Uygulama: i2clcd Pot L298 motorsurucu
 # 56. Elli Altı Uygulama: hcsr04 i2cLcd L298 motorsurucu
 ------------------------------------------------------------------------------------------------------------------------------
 
