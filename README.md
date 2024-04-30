@@ -575,7 +575,19 @@ BMP180 basınç sensör modülü
 # 51. Elli Bir Uygulama: 20A ESC BLDC Motor I2C LCD
 # 52. Elli İkinci Uygulama: PCA9685 I2C Servo
 # 53. Elli Üçüncü Uygulama: HCSR04 L298 Motor sürücü i2c 8 digit display
+
+------------------------------------------------------------------------------------------------------------------------------
+
 # 54. Elli Dördüncü Uygulama: Potansiyometre L298 Motor sürücü DC motor
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/54_Potl298motorsurucu-resim1.jpg)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/54_Potl298motorsurucu-resim2.png)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/54_Potl298motorsurucu-resim3.png)
+
+------------------------------------------------------------------------------------------------------------------------------
+
 # 55. Elli Beş Uygulama: i2clcd Pot L298 motorsurucu
 # 56. Elli Altı Uygulama: hcsr04 i2cLcd L298 motorsurucu
 # 57. Elli Yedinci Uygulama: 298mtrsrc ciftdcmotor
