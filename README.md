@@ -173,7 +173,7 @@ BMP180 basınç sensör modülü
 52. Elli İkinci Uygulama: PCA9685 I2C Servo
 53. Elli Üçüncü Uygulama: HCSR04 L298 Motor sürücü i2c 8 digit display
 54. [Elli Dördüncü Uygulama: Potansiyometre L298 Motor sürücü DC motor](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/README.md#54-elli-d%C3%B6rd%C3%BCnc%C3%BC-uygulama-potansiyometre-l298-motor-s%C3%BCr%C3%BCc%C3%BC-dc-motor)
-55. Elli Beş Uygulama: i2clcd Pot L298 motorsurucu
+55. [Elli Beş Uygulama: i2clcd Pot L298 motorsurucu](https://github.com/acetinkaya/robotik-arduino-uygulamalari?tab=readme-ov-file#55-elli-be%C5%9F-uygulama-i2clcd-pot-l298-motorsurucu)
 56. Elli Altı Uygulama: hcsr04 i2cLcd L298 motorsurucu
 57. Elli Yedinci Uygulama: 298mtrsrc ciftdcmotor
 58. Elli Yedinci Uygulama: l298motorsrc xyjoyistick
@@ -589,6 +589,23 @@ BMP180 basınç sensör modülü
 ------------------------------------------------------------------------------------------------------------------------------
 
 # 55. Elli Beş Uygulama: i2clcd Pot L298 motorsurucu
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/55_i2clcdPotl298motorsuruc-resim1.jpg)
+
+![alternatif metin](
+
+![alternatif metin](
+
+![alternatif metin](
+
+![alternatif metin](
+
+![alternatif metin](
+
+![alternatif metin](
+
+------------------------------------------------------------------------------------------------------------------------------
+
 # 56. Elli Altı Uygulama: hcsr04 i2cLcd L298 motorsurucu
 # 57. Elli Yedinci Uygulama: 298mtrsrc ciftdcmotor
 # 58. Elli Yedinci Uygulama: l298motorsrc xyjoyistick
