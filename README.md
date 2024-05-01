@@ -592,17 +592,17 @@ BMP180 basınç sensör modülü
 
 ![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/55_i2clcdPotl298motorsuruc-resim1.jpg)
 
-![alternatif metin](
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/55_i2clcdPotl298motorsuruc-resim2.jpg)
 
-![alternatif metin](
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/55_i2clcdPotl298motorsuruc-resim3.jpg)
 
-![alternatif metin](
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/55_i2clcdPotl298motorsuruc-resim4.jpg)
 
-![alternatif metin](
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/55_i2clcdPotl298motorsuruc-resim5.png)
 
-![alternatif metin](
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/55_i2clcdPotl298motorsuruc-resim6.png)
 
-![alternatif metin](
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/55_i2clcdPotl298motorsuruc-resim7.png)
 
 ------------------------------------------------------------------------------------------------------------------------------
 
