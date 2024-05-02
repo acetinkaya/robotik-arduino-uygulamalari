@@ -607,6 +607,19 @@ BMP180 basınç sensör modülü
 ------------------------------------------------------------------------------------------------------------------------------
 
 # 56. Elli Altı Uygulama: hcsr04 i2cLcd L298 motorsurucu
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/56_hcsr04i2cLcdl298mtrsrc-resim1.png)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/56_hcsr04i2cLcdl298mtrsrc-resim2.png)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/56_hcsr04i2cLcdl298mtrsrc-resim3.jpg)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/56_hcsr04i2cLcdl298mtrsrc-resim4.jpg)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/56_hcsr04i2cLcdl298mtrsrc-resim5.jpg)
+
+------------------------------------------------------------------------------------------------------------------------------
+
 # 57. Elli Yedinci Uygulama: 298mtrsrc ciftdcmotor
 # 58. Elli Yedinci Uygulama: l298motorsrc xyjoyistick
 # 59. Elli Yedinci Uygulama: Elli dokuz uygulama DTH11 Mq2 SeriPort
