@@ -621,6 +621,17 @@ BMP180 basınç sensör modülü
 ------------------------------------------------------------------------------------------------------------------------------
 
 # 57. Elli Yedinci Uygulama: 298mtrsrc ciftdcmotor
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/57_298mtrsrc-ciftdcmotor-resim1.jpg)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/57_298mtrsrc-ciftdcmotor-resim2.png)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/57_298mtrsrc-ciftdcmotor-resim3.png) 
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/57_298mtrsrc-ciftdcmotor-resim4.png)
+
+------------------------------------------------------------------------------------------------------------------------------
+
 # 58. Elli Yedinci Uygulama: l298motorsrc xyjoyistick
 # 59. Elli Yedinci Uygulama: Elli dokuz uygulama DTH11 Mq2 SeriPort
 
