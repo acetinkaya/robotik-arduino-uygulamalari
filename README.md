@@ -638,7 +638,7 @@ BMP180 basınç sensör modülü
 
 # 59. Elli Yedinci Uygulama: Elli dokuz uygulama DTH11 Mq2 SeriPort
 
-![alternatif metin]( 
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/59-Elli-dokuz-uygulama-dth11mq2-seriport-resim1.jpg)
 
 ![alternatif metin](
 
