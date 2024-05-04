@@ -640,7 +640,13 @@ BMP180 basınç sensör modülü
 
 ![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/59-Elli-dokuz-uygulama-dth11mq2-seriport-resim1.jpg)
 
-![alternatif metin](
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/59-Elli-dokuz-uygulama-dth11mq2-seriport-resim2.png)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/59-Elli-dokuz-uygulama-dth11mq2-seriport-resim3.png)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/59-Elli-dokuz-uygulama-dth11mq2-seriport-resim4.png)
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/59-Elli-dokuz-uygulama-dth11mq2-seriport-resim5.png)
 
 ------------------------------------------------------------------------------------------------------------------------------
 
