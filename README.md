@@ -98,6 +98,12 @@ BMP180 basınç sensör modülü
 
 ------------------------------------------------------------------------------------------------------------------------------
 
+# Ders içerisinde kullanılacak Örnek Devre Şemalarının Gösterimi - Anlatımı
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/Fritzing%20Elemanlar%C4%B1_bb.png)
+
+------------------------------------------------------------------------------------------------------------------------------
+
 # Ders içerisinde kullanılacak jumper kablolar
 
 ![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/ders-jumper.jpg)
