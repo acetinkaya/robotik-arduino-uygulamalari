@@ -98,7 +98,7 @@ BMP180 basınç sensör modülü
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-# Ders içerisinde kullanılacak Örnek Devre Şemalarının Gösterimi - Anlatımı
+# Dersin ilgili bölümlerinde gösterimleri ve anlatımları yapılacak olan elektronik sensörlerin kullanım ve pin bağlantı bilgisi
 
 ![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/Fritzing%20Elemanlar%C4%B1_bb.png)
 
