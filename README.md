@@ -692,6 +692,12 @@ BMP180 basınç sensör modülü
 
 ------------------------------------------------------------------------------------------------------------------------------
 
+# 69. Altmıs Dokuzuncu Uygulama: Matlab Fuzzy Logic Toolbox Uygulaması (Restoran yemek kalitesi ve restoran kurye servis hizmetine göre bahşiş değerlendirme uygulaması)
+
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
 # NOT: 
 
 Bu platformda, her hafta uygulamaların içeriği genişletilecek ve geliştirme adımlarının paylaşımı yapılacaktır. 
