@@ -702,17 +702,17 @@ BMP180 basınç sensör modülü
 
 ![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/69-Altmis-dokuz-uygulama-matlab-arduino-resim4.png)
 
-![alternatif metin](
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/69-Altmis-dokuz-uygulama-matlab-arduino-resim5.png)
 
-![alternatif metin](
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/69-Altmis-dokuz-uygulama-matlab-arduino-resim6.png)
 
-![alternatif metin](
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/69-Altmis-dokuz-uygulama-matlab-arduino-resim7.png)
 
-![alternatif metin](
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/69-Altmis-dokuz-uygulama-matlab-arduino-resim8.png)
 
-![alternatif metin](
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/69-Altmis-dokuz-uygulama-matlab-arduino-resim9.png)
 
-![alternatif metin](
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/69-Altmis-dokuz-uygulama-matlab-arduino-resim10.png)
 
 ------------------------------------------------------------------------------------------------------------------------------
 
