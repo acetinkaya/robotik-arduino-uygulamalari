@@ -193,7 +193,7 @@ BMP180 basınç sensör modülü
 66. Altmıs Altıcı Uygulama: PIR RGBLED Buzzer
 67. Altmıs Yedinci Uygulama: PIR Lazer Role
 68. Altmıs Sekizci Uygulama: PIR RGBLed Role Buzzer
-69. Altmıs Dokuzuncu Uygulama: Matlab Fuzzy Logic Toolbox Uygulaması (Restoran yemek kalitesi ve restoran kurye servis hizmetine göre bahşiş değerlendirme uygulaması)
+69. [Altmıs Dokuzuncu Uygulama: Matlab Fuzzy Logic Toolbox Uygulaması (Restoran yemek kalitesi ve restoran kurye servis hizmetine göre bahşiş değerlendirme uygulaması)](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/README.md#69-altm%C4%B1s-dokuzuncu-uygulama-matlab-fuzzy-logic-toolbox-uygulamas%C4%B1-restoran-yemek-kalitesi-ve-restoran-kurye-servis-hizmetine-g%C3%B6re-bah%C5%9Fi%C5%9F-de%C4%9Ferlendirme-uygulamas%C4%B1)
 ------------------------------------------------------------------------------------------------------------------------------
 
 # 1. Birinci Uygulama: LED
