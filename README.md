@@ -694,9 +694,9 @@ BMP180 basınç sensör modülü
 
 # 69. Altmıs Dokuzuncu Uygulama: Matlab Fuzzy Logic Toolbox Uygulaması (Restoran yemek kalitesi ve restoran kurye servis hizmetine göre bahşiş değerlendirme uygulaması)
 
-![alternatif metin](
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/69-Altmis-dokuz-uygulama-matlab-arduino-resim1.png)
 
-![alternatif metin](
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/69-Altmis-dokuz-uygulama-matlab-arduino-resim2.png)
 
 ![alternatif metin](
 
