@@ -1,0 +1,47 @@
+[System]
+Name='bahsis'
+Type='mamdani'
+Version=2.0
+NumInputs=2
+NumOutputs=1
+NumRules=9
+AndMethod='min'
+OrMethod='max'
+ImpMethod='min'
+AggMethod='max'
+DefuzzMethod='centroid'
+
+[Input1]
+Name='servis'
+Range=[0 100]
+NumMFs=3
+MF1='serviskotu':'trimf',[0 0 50]
+MF2='servisorta':'trimf',[25 50 75]
+MF3='servisiyi':'trimf',[50 100 100]
+
+[Input2]
+Name='yemek'
+Range=[0 100]
+NumMFs=3
+MF1='yemekkotu':'trimf',[0 0 40]
+MF2='yemekorta':'trimf',[25 45 65]
+MF3='yemekiyi':'trimf',[50 100 100]
+
+[Output1]
+Name='bahsis'
+Range=[0 100]
+NumMFs=3
+MF1='bahsiskotu':'trimf',[0 0 45]
+MF2='bahsisorta':'trimf',[5 50 95]
+MF3='bahsisiyi':'trimf',[55 100 100]
+
+[Rules]
+1 1, 1 (1) : 1
+1 2, 1 (1) : 1
+1 3, 2 (1) : 1
+2 1, 1 (1) : 1
+2 2, 2 (1) : 1
+2 3, 2 (1) : 1
+3 1, 1 (1) : 1
+3 2, 2 (1) : 1
+3 3, 3 (1) : 1
