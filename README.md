@@ -716,6 +716,15 @@ BMP180 basınç sensör modülü
 
 ------------------------------------------------------------------------------------------------------------------------------
 
+# 70. Yetmiş Uygulama: i2clcd ve i2csaat modülü uygulaması 
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/70-yetmisinci-uygulama-i2clcd-i2csaat-1.jpg)
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
 # NOT: 
 
 Bu platformda, her hafta uygulamaların içeriği genişletilecek ve geliştirme adımlarının paylaşımı yapılacaktır. 
