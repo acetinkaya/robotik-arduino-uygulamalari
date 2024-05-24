@@ -721,6 +721,14 @@ BMP180 basınç sensör modülü
 
 ![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/70-yetmisinci-uygulama-i2clcd-i2csaat-1.jpg)
 
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/70-yetmisinci-uygulama-i2clcd-i2csaat-2.jpg)
+
+![alternatif metin](
+
+![alternatif metin](
+
+![alternatif metin](
+
 
 
 
