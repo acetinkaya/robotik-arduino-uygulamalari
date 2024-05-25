@@ -1,3 +1,42 @@
+/*
+Bu kodlar açık kaynak paylaşım olarak github "acetinkaya" alanında paylaşımı yapılmıştır. 
+
+BTP222 Robotik dersi içerisinde anlatımı yapılan bu kodlar ve içerikler Öğr. Gör. Ali ÇETİNKAYA tarafından oluşturulmuştur. 
+
+Github alanından; 
+watch - ilgili projenin proje takibi bildirimi, 
+star - yıldız ile beğenme bildirimi ve 
+fork - kendi hesabınıza kopyalama işlemleriyle paylaşımlarıma destek verebilirsiniz. 
+
+Bilgi paylaşıldıkça çoğalır ve gelişir. İyi çalışmalar dilerim.
+
+Öğr. Gör. Ali ÇETİNKAYA İstanbul, 2024
+
+Dersin Kaynak Adresleri:
+https://github.com/acetinkaya/robotik-arduino-uygulamalari
+https://alicetinkaya.site/ders-robotik
+https://avesis.gelisim.edu.tr/alcetinkaya 
+https://scholar.google.com.tr/citations?hl=tr&user=XSEW-NcAAAAJ
+
+---------------------------------------------------------------------------------------------------------
+Kodun açıklaması: 
+
+Kurulacak Kütüphaneler---->
+RTClib.h -> RTClib by Adafruit
+LiquidCrystal_I2C_Hangul.h> -> i2c lcd by Junwha 
+
+Servo motor kontrol etmek istiyorsanız --> Servo.h kütüphanesini dahil etmeniz gerekmektedir. 
+
+Bu işlem için Tools->Library Manager->LiquidCrystal_I2C ara-> "LiquidCrystal_I2C_Hangul by Junwha Hong, Dohun Kim, HyungHo Kim" bilgisini içeren 
+kütüphaneyi install ile kurulumunu yaparız. Kurulum yapıldıktan sonra File-> Examples -> LiquidCrystal_I2C_Hangul -> printenglish
+çalıştırılarak aşağıdaki kodlar gelmektedir. Aşağıdaki kodlarda;
+
+i2c lcd üzerinde 0. ve 1. satırlarda metin yazdırma işlemleri gerçekleştirilmektedir.
+i2c saat modülünden gelen saat ve saniye bilgisini i2c lcd üzerine yazdırılması işlemidir.  
+
+*/
+
+
 #include <Wire.h>
 #include <LiquidCrystal_I2C_Hangul.h>
 #include <RTClib.h>
