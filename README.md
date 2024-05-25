@@ -736,6 +736,12 @@ BMP180 basınç sensör modülü
 
 ------------------------------------------------------------------------------------------------------------------------------
 
+# 71. Yetmiş Birinci Uygulama: i2clcd i2csaat buton ve buzzer modülü uygulaması 
+
+![alternatif metin](
+
+------------------------------------------------------------------------------------------------------------------------------
+
 # NOT: 
 
 Bu platformda, her hafta uygulamaların içeriği genişletilecek ve geliştirme adımlarının paylaşımı yapılacaktır. 
