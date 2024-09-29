@@ -855,7 +855,7 @@ APA--> Cetinkaya, A. (2024). Robotik arduino uygulamalari [GitHub Deposu]. GitHu
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 
 Proje Durumu:
-İlgili bağımlılıklara ve Python programlama dilinde yazılmış yazılım kodlarına sürüm güncellemeleri yaptıkça bu paylaşımları güncelleyeceğiz. GitHub bölümünden beğeni bildirimi olarak bir yıldız vererek çalışmalarımı destekleyebilirsiniz. Bilgi paylaşıldıkça büyür ve gelişir.
+İlgili paylaşımlar da ve ilgili programlama dilinde yazılmış yazılım kodlarına sürüm güncellemeleri yaptıkça bu paylaşımları güncelleyeceğiz. GitHub bölümünden beğeni bildirimi olarak bir yıldız vererek çalışmalarımı destekleyebilirsiniz. Bilgi paylaşıldıkça büyür ve gelişir.
 
 Katkıda Bulunma:
 Çekme istekleri memnuniyetle karşılanır. Büyük değişiklikler için lütfen önce neyi değiştirmek istediğinizi görüşmek üzere ilgili Python kodunu belirttiğiniz bir soru - yanıt bölümü açın. 
@@ -868,7 +868,7 @@ Yazar ve Güncelleme Yapan: [Öğr. Gör. Ali Çetinkaya (MSc.)](https://github.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 
 Project Status:
-We will update these shares as we make version updates to the related dependencies and software code written in Python programming language. You can support my work by giving a star as a like notification from the GitHub section. Knowledge grows and develops as it is shared.
+We will update these posts as we make version updates to the related posts and software codes written in the relevant programming language. You can support my work by giving a star as a like notification from the GitHub section. Knowledge grows and develops as it is shared.
 
 Contributing:
 Pull requests are welcome. For major changes, please open a question-and-answer section indicating the relevant Python code to discuss what you'd like to change first.
