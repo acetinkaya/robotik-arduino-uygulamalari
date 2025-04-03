@@ -10,7 +10,7 @@ fork - kendi hesabınıza kopyalama işlemleriyle paylaşımlarıma destek vereb
 
 Bilgi paylaşıldıkça çoğalır ve gelişir. İyi çalışmalar dilerim.
 
-Öğr. Gör. Ali ÇETİNKAYA İstanbul, 2024
+Öğr. Gör. Ali ÇETİNKAYA İstanbul, 2025
 
 Dersin Kaynak Adresleri:
 https://github.com/acetinkaya/robotik-arduino-uygulamalari
@@ -21,7 +21,7 @@ https://scholar.google.com.tr/citations?hl=tr&user=XSEW-NcAAAAJ
 ---------------------------------------------------------------------------------------------------------
 Kodun açıklaması: 
 
-Arduino Nano üzerinde bağlı seri port tanımlaması ve ayarlarını gerçekleştiriyoruz. 
+Arduino Nano üzerinde bağlı seri porttan led sürme işlemini gerçekleştiriyoruz. 
 
 */
 
