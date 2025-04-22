@@ -24,7 +24,7 @@ https://scholar.google.com.tr/citations?hl=tr&user=XSEW-NcAAAAJ
 
 ---
 
-DHT Kütüphanesini Arduino menülerinden "Tools"  "Library Manager" -> DHT SENSOR library by Adafruit olarak kurulum sağlayın
+DHT Kütüphanesini Arduino menülerinden "Tools" -> "Library Manager" -> DHT SENSOR library by Adafruit olarak kurulum sağlayın
 
 ---
 
