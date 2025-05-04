@@ -1,4 +1,4 @@
-# robotik-arduino-uygulamalari
+# Arduino ile Robotik Uygulamalar Rehberi
 
 Aşağıdaki bilgi, resim ve kod çalışmaları açık kaynak paylaşım olarak github "acetinkaya" alanında paylaşımı yapılmıştır. 
 
