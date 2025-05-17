@@ -125,25 +125,25 @@ BMP180 basınç sensör modülü
 
 # 📘 Ders Video İçerikleri:
 
-## Robotik Dersleri #1 – Kablolama, Lehimleme ve Devre Birleştirme Teknikleri (Uygulamalı Eğitim) :> https://youtu.be/fdqXJnN5Aw8
-
 ![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/robotik_dersi1-kucuk.png)
 
-----
+## Robotik Dersleri #1 – Kablolama, Lehimleme ve Devre Birleştirme Teknikleri (Uygulamalı Eğitim) :> https://youtu.be/fdqXJnN5Aw8
 
-## Robotik Dersleri #2 – Arduino ile DHT11 Isı-Nem Sensörü ve MQ2 Gaz Sensörü Kullanımı :> https://youtu.be/EhQ3nAzyE7o
+-
 
 ![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/Proje_kapag%C4%B1.png)
 
-----
+## Robotik Dersleri #2 – Arduino ile DHT11 Isı-Nem Sensörü ve MQ2 Gaz Sensörü Kullanımı :> https://youtu.be/EhQ3nAzyE7o
+
+-
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/Resim1.png)
 
 ## Robotik Dersleri #3 – Arduino ile Buzzer Kullanımı & Ses Üretimi | Danışmanlı Öğrenme :> https://youtu.be/-p9ZWJUrUf4
 
 ## Robotik Dersleri #4 – Arduino ile Buzzer Uygulaması | Sesli Uyarı Sistemi :> https://youtube.com/shorts/eoUzrtqaZcI
 
-![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/Resim1.png)
-
-----
+-
 
 ------------------------------------------------------------------------------------------------------------------------------
 
