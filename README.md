@@ -131,7 +131,9 @@ BMP180 basınç sensör modülü
 
 ----
 
-## Robotik Dersleri #2 – Arduino ile DHT11 Isı-Nem Sensörü ve MQ2 Gaz Sensörü Kullanımı 
+## Robotik Dersleri #2 – Arduino ile DHT11 Isı-Nem Sensörü ve MQ2 Gaz Sensörü Kullanımı :> https://youtu.be/EhQ3nAzyE7o
+
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/robotik_dersi1-kucuk.png)
 
 ----
 
