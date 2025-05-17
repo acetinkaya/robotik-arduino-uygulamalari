@@ -139,13 +139,9 @@ BMP180 basınç sensör modülü
 
 ## Robotik Dersleri #3 – Arduino ile Buzzer Kullanımı & Ses Üretimi | Danışmanlı Öğrenme :> https://youtu.be/-p9ZWJUrUf4
 
-![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/robotik_dersi1-kucuk.png)
-
-----
-
 ## Robotik Dersleri #4 – Arduino ile Buzzer Uygulaması | Sesli Uyarı Sistemi :> https://youtube.com/shorts/eoUzrtqaZcI
 
-![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/robotik_dersi1-kucuk.png)
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/Resim1.png)
 
 ----
 
