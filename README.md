@@ -129,7 +129,7 @@ BMP180 basınç sensör modülü
 
 ## Robotik Dersleri #1 – Kablolama, Lehimleme ve Devre Birleştirme Teknikleri (Uygulamalı Eğitim) :> https://youtu.be/fdqXJnN5Aw8
 
-## Robotik Dersleri #2 - 
+## Robotik Dersleri #2 - Robotik Dersleri #2 – Lehimleme ve Devre Birleştirme Adımları (Uygulamalı Eğitim) 
 
 -
 
