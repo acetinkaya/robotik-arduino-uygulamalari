@@ -141,17 +141,9 @@ BMP180 basınç sensör modülü
 
 ![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/Proje_kapag%C4%B1.png)    
 
-## Robotik Dersleri #2 –  :>    
-
--   
-
 ![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/Resim1.png)   
 
-## Robotik Dersleri #3 –  | Danışmanlı Öğrenme :>    
 
-## Robotik Dersleri #4 – Arduino ile Buzzer Uygulaması | Sesli Uyarı Sistemi :>    
-  
--
 
 ------------------------------------------------------------------------------------------------------------------------------
 
