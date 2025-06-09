@@ -123,7 +123,7 @@ BMP180 basınç sensör modülü
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-# 📘 Ders Video İçerikleri:  
+# 📘 [Youtube Ders Video İçerikleri:](https://www.youtube.com/@danismanliogrenme)  
 
 | Ders No | Konusu | Erişim Linki |     
 |----------------|--------------|-----------|   
