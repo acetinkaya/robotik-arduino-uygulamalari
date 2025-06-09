@@ -127,7 +127,7 @@ BMP180 basınç sensör modülü
 
 | Ders No | Konusu | Erişim Linki |     
 |----------------|--------------|-----------|   
-| 13 Haziran 2025  | 11:00  | Form Sayfası  |
+| Robotik Dersleri #1  | Kablolama, Lehimleme ve Devre Birleştirme Teknikleri (Uygulamalı Eğitim) | [Erişim Linki](https://youtu.be/fdqXJnN5Aw8) |  
 | 13 Haziran 2025  | 16:00  | Form Sayfası  |
 | 15 Haziran 2025  | 11:00  | Form Sayfası  |
 | 15 Haziran 2025  | 16:00  | Form Sayfası  |
@@ -137,7 +137,7 @@ BMP180 basınç sensör modülü
 
 ![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/robotik_dersi1-kucuk.png)    
 
-## Robotik Dersleri #1 – Kablolama, Lehimleme ve Devre Birleştirme Teknikleri (Uygulamalı Eğitim) :> https://youtu.be/fdqXJnN5Aw8    
+## Robotik Dersleri #1 – Kablolama, Lehimleme ve Devre Birleştirme Teknikleri (Uygulamalı Eğitim) :>   
 
 ## Robotik Dersleri #2 - Lehimleme ve Devre Birleştirme Adımları (Uygulamalı Eğitim) :> https://youtu.be/XJxWfzipIfE   
 
