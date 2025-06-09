@@ -148,7 +148,7 @@ BMP180 basınç sensör modülü
 
 ![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/Resim1.png)   
 
-
+![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/kapak_resmi2.png)
 
 ------------------------------------------------------------------------------------------------------------------------------
 
