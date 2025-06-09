@@ -127,7 +127,8 @@ BMP180 basınç sensör modülü
 
 | Ders No | Konusu | Erişim Linki |     
 |----------------|--------------|-----------|   
-| 13 Haziran 2025  | 11:00  | 
+| 13 Haziran 2025  | 11:00  | Form Sayfası  |
+
 
 
 
