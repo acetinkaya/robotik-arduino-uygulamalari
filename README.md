@@ -130,7 +130,9 @@ BMP180 basınç sensör modülü
 | Robotik Dersleri #1  | Kablolama, Lehimleme ve Devre Birleştirme Teknikleri (Uygulamalı Eğitim) | [Erişim Linki](https://youtu.be/fdqXJnN5Aw8) |  
 | Robotik Dersleri #2  | Lehimleme ve Devre Birleştirme Adımları (Uygulamalı Eğitim) | [Erişim Linki](https://youtu.be/XJxWfzipIfE)  |  
 | Robotik Dersleri #3  | Lehimleme, Devre Birleştirme ve Robotik Uygulamalar (Uygulamalı Eğitim)  | [Erişim Linki](https://youtu.be/pzkMUTa3KR4)  |   
-| Robotik Dersleri #4  | Arduino ile Buzzer Uygulaması - Sesli Uyarı Sistemi | Form Sayfası  | [Erişim Linki](https://youtube.com/shorts/eoUzrtqaZcI)
+| Robotik Dersleri #4  | Arduino ile Buzzer Uygulaması - Sesli Uyarı Sistemi | [Erişim Linki](https://youtube.com/shorts/eoUzrtqaZcI)   |    
+
+
 ---
 
 ![alternatif metin](https://github.com/acetinkaya/robotik-arduino-uygulamalari/blob/main/robotik_dersi1-kucuk.png)    
