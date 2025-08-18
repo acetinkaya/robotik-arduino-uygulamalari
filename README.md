@@ -34,7 +34,7 @@ https://scholar.google.com.tr/citations?hl=tr&user=XSEW-NcAAAAJ
 
 # 📢 Duyuru
 
-Robotik dersi öncesinde temel elektronik konularını 
+Robotik dersi öncesinde temel elektronik konularını pekiştirmeniz için hazırladığım 
 
 ------------------------------------------------------------------------------------------------------------------------------
 
