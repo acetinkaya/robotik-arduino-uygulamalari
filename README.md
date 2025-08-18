@@ -36,6 +36,8 @@ https://scholar.google.com.tr/citations?hl=tr&user=XSEW-NcAAAAJ
 
 Robotik dersi 
 
+----------
+
 # Bu Paylaşımdaki elektronik malzemelerin listesi:
 
 Mikrodenetleyici: Arduino nano
