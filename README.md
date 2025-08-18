@@ -36,7 +36,7 @@ https://scholar.google.com.tr/citations?hl=tr&user=XSEW-NcAAAAJ
 
 Robotik dersi öncesinde temel elektronik konularını pekiştirmeniz için hazırladığım içeriklere göz atmanızı tavsiye ederim.
 
-Temel Elektronik
+Temel Elektronik GitHub Reposu
 
 ------------------------------------------------------------------------------------------------------------------------------
 
