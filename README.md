@@ -38,7 +38,8 @@ Robotik dersi öncesinde temel elektronik konularını pekiştirmeniz için haz�
 
 [Temel Elektronik GitHub Reposu](https://github.com/acetinkaya/Temel-Elektronik)
 
-👉 Robotik dersine başlamadan önce bu kısımları tamamlamanız, 
+👉 Robotik dersine başlamadan önce bu kısımları tamamlamanız, ileride yapacağımız 
+
 ------------------------------------------------------------------------------------------------------------------------------
 
 # Bu Paylaşımdaki elektronik malzemelerin listesi:
