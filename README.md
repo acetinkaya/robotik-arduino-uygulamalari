@@ -32,6 +32,9 @@ https://scholar.google.com.tr/citations?hl=tr&user=XSEW-NcAAAAJ
 
 ------------------------------------------------------------------------------------------------------------------------------
 
+
+
+
 # Bu Paylaşımdaki elektronik malzemelerin listesi:
 
 Mikrodenetleyici: Arduino nano
